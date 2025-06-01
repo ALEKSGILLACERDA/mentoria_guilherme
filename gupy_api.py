@@ -1,32 +1,45 @@
 import requests
 import json
 
-# Dicionário para garantir que cada vaga apareça só uma vez (chave = id da vaga)
-vagas_unicas = {}
+def buscar_vagas_por_termo(termo, offset):
+    url = f'https://portal.api.gupy.io/api/job?name={termo}&offset={offset}&limit=10'
+    resposta = requests.get(url)
+    if resposta.status_code == 200:
+        dados = resposta.json()
+        print(f'guardado')
+        return dados.get("data", [])
+        
+    else:
+        print(f"Erro ao buscar '{termo}' com offset {offset}: status {resposta.status_code}")
+        return []
 
-def buscar_vagas():
-    # Termos que serão usados para buscar vagas no portal da Gupy
-    palavras_chave = [
+def coletar_todas_as_vagas(vagas, offsets):
+    todas_as_vagas = []
+    for termo in vagas:
+        for offset in offsets:
+            vagas_encontradas = buscar_vagas_por_termo(termo, offset)
+            todas_as_vagas.extend(vagas_encontradas)
+        print ("buscando vagas")
+    return todas_as_vagas
+    
+
+def salvar_vagas_em_arquivo(vagas, nome_arquivo):
+    with open(nome_arquivo, "w", encoding="utf-8") as arquivo:
+        json.dump(vagas, arquivo, ensure_ascii=False, indent=2)
+    print(f"Arquivo '{nome_arquivo}' salvo com {len(vagas)} vagas.")
+
+def main():
+    termos_de_busca = [
         "analista de dados jr",
         "dados junior",
         "data analyst jr",
         "analista dados júnior",
-        "ciência de dados jr",
-        "data science jr"
     ]
+    offsets = range(0, 50, 10)
 
-    for termo in palavras_chave:
-        url = f'https://portal.api.gupy.io/api/job?name={termo}&offset=0&limit=400'
-        resposta = requests.get(url)
-        
-        if resposta.status_code == 200:
-            dados = resposta.json()
+    todas_as_vagas = coletar_todas_as_vagas(termos_de_busca, offsets)
+    salvar_vagas_em_arquivo(todas_as_vagas, "vagas_gupy.json")
 
-            # Para cada vaga retornada na resposta
-            for vaga in dados.get("data", []):
-                # Usa o id da vaga como chave no dicionário para evitar duplicatas
-                vagas_unicas[vaga["id"]] = vaga
+if __name__ == "__main__":
+    main()
 
-    # Salva as vagas únicas em um arquivo JSON
-    with open("vagas_gupy.json", "w", encoding="utf-8") as arquivo:
-        json.dump(list(vagas_unicas.values()), arquivo, ensure_ascii=False, indent=2)
