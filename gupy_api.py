@@ -6,7 +6,8 @@ def buscar_vagas_por_termo(termo, offset):
     resposta = requests.get(url)
     if resposta.status_code == 200:
         dados = resposta.json()
-        print(f'guardado')
+        vagas = dados.get("data", [])
+        print(f'guardado {len(vagas)}')
         return dados.get("data", [])
         
     else:
@@ -42,4 +43,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+ 
+   
 
