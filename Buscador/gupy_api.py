@@ -29,21 +29,15 @@ def salvar_vagas_em_arquivo(vagas, nome_arquivo):
         json.dump(vagas, arquivo, ensure_ascii=False, indent=2)
     print(f"Arquivo '{nome_arquivo}' salvo com {len(vagas)} vagas.")
 
-def main():
-    termos_de_busca = [
-        "analista de dados jr",
-        "dados junior",
-        "data analyst jr",
-        "analista dados júnior",
-    ]
-    offsets = range(0, 50, 10)
+def main(termos_de_busca=None, offset_final=50):
+    if termos_de_busca is None:
+        termos_de_busca = [
+            "dados"
+        ]
+    offsets = range(0, offset_final, 10)
 
     todas_as_vagas = coletar_todas_as_vagas(termos_de_busca, offsets)
     salvar_vagas_em_arquivo(todas_as_vagas, "vagas_gupy.json")
 
 if __name__ == "__main__":
     main()
-
- 
-   
-
