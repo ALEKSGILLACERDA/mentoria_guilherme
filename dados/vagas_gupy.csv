@@ -1,0 +1,641 @@
+﻿id,careerPageId,careerPageName,type,publishedDate,applicationDeadline,isRemoteWork,city,state,country,badges,disabilities,workplaceType
+9368720,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-17T21:50:59.534Z,2025-08-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9364576,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-17T21:22:30.359Z,2025-08-15T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9374948,117226,VENHA SER #SANGUELARANJA 🧡🚀,vacancy_type_effective,2025-06-17T21:14:53.087Z,2025-08-16T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,hybrid
+9343148,126928,ipsosbrasil,vacancy_type_effective,2025-06-17T20:59:59.326Z,2025-08-10T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9374788,172604,Stoque,vacancy_type_talent_pool,2025-06-17T19:29:41.898Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9346388,163994,Suzano,vacancy_type_effective,2025-06-17T19:24:25.012Z,2025-06-27T00:00:00.000Z,False,,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9373099,50170,Darede,vacancy_legal_entity,2025-06-17T18:54:45.010Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9377971,56407,MESHA TECNOLOGIA,vacancy_type_effective,2025-06-17T18:30:04.324Z,2025-08-31T00:00:00.000Z,False,Maceió,Alagoas,Brasil,{'friendlyBadge': False},True,hybrid
+9368938,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-17T18:20:36.115Z,2025-08-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9377714,4010,Grupo Vamos,vacancy_type_internship,2025-06-17T18:09:15.607Z,2025-08-16T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9377600,75613,Movida Aluguel de Carros,vacancy_type_internship,2025-06-17T18:00:26.292Z,2025-08-16T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9377111,116369,Confidencial,vacancy_type_effective,2025-06-17T17:28:57.323Z,2025-11-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9376784,1015,Wilson Sons,vacancy_type_effective,2025-06-17T16:48:49.846Z,2025-08-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9373477,2015,Estácio,vacancy_type_lecturer,2025-06-17T16:06:49.901Z,2025-08-16T00:00:00.000Z,False,Manaus,Amazonas,Brasil,{'friendlyBadge': True},True,on-site
+9375986,107986,Libbs Farmacêutica,vacancy_type_effective,2025-06-17T15:15:07.298Z,2025-06-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9301112,2452,Lanlink Informática,vacancy_type_effective,2025-06-17T14:48:34.646Z,2025-10-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9334749,596,GPA,vacancy_type_effective,2025-06-17T14:04:54.417Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9371004,1410,Leega Consultoria,vacancy_type_effective,2025-06-17T13:12:18.191Z,2025-08-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9373517,62646,Grupo Panvel,vacancy_type_internship,2025-06-17T12:45:20.465Z,2025-07-21T00:00:00.000Z,False,Eldorado do Sul,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+9373449,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-17T12:43:36.202Z,2025-08-16T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,on-site
+9356098,137488,Aliare,vacancy_type_effective,2025-06-17T11:45:32.382Z,2025-08-12T00:00:00.000Z,False,Rio Verde,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9360255,120526,Radix Engenharia e Software,vacancy_type_effective,2025-06-17T11:20:58.458Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9336259,176594,CapLink ,vacancy_type_internship,2025-06-16T23:31:54.548Z,2025-08-09T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9337693,94918,Grupo Autoglass Estágio,vacancy_type_effective,2025-06-16T21:14:07.001Z,2025-09-16T00:00:00.000Z,False,Vila Velha,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+9347947,120526,Radix Engenharia e Software,vacancy_type_effective,2025-06-16T21:06:15.778Z,2025-08-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9370991,117562,Central IT,vacancy_type_effective,2025-06-16T21:02:32.944Z,2025-08-15T00:00:00.000Z,True,,,,{'friendlyBadge': True},True,remote
+9370825,18787,VERT Capital,vacancy_type_effective,2025-06-16T20:08:16.558Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9294163,71488,Minsait an Indra Company,vacancy_type_effective,2025-06-16T19:58:04.351Z,2025-08-03T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9343183,75976,BIP Brasil,vacancy_type_effective,2025-06-16T19:36:45.726Z,2025-08-10T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9370323,317,Sicredi,vacancy_type_internship,2025-06-16T19:24:50.911Z,2025-07-31T00:00:00.000Z,False,Assis,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9370258,317,Sicredi,vacancy_type_internship,2025-06-16T19:22:00.277Z,2025-07-31T00:00:00.000Z,False,Assis,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9366167,1717,grupo enjoei,vacancy_type_effective,2025-06-16T19:17:05.359Z,2025-08-15T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9330498,169597,Vagas Confidenciais,vacancy_type_effective,2025-06-16T17:57:56.216Z,2025-08-09T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},False,hybrid
+9330878,210,Grupo Boticário,vacancy_type_effective,2025-06-16T17:30:50.017Z,2025-06-23T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9349982,137488,Aliare,vacancy_type_effective,2025-06-16T14:59:05.685Z,2025-08-11T00:00:00.000Z,False,Cascavel,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9367275,213157,Vagas E-Deploy,vacancy_type_effective,2025-06-16T14:36:31.643Z,2025-08-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9358428,90628,Softplan + Starian,vacancy_type_effective,2025-06-16T14:36:10.450Z,2025-06-23T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9273005,164543,Corporativo Grupo Casas Bahia,vacancy_type_effective,2025-06-16T14:31:53.470Z,2025-06-30T00:00:00.000Z,False,São Caetano do Sul,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9331281,95182,Spread Tecnologia,vacancy_type_effective,2025-06-16T13:36:02.897Z,2025-08-09T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9205112,524,Digio,vacancy_type_effective,2025-06-16T13:31:13.079Z,2025-07-20T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9321323,3348,Omni ,vacancy_type_effective,2025-06-16T12:49:51.160Z,2025-08-08T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9314062,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-16T02:51:35.814Z,2025-08-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9314047,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-16T02:35:55.344Z,2025-08-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9361033,74,Cielo,vacancy_type_effective,2025-06-13T22:29:36.621Z,2025-08-12T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9360839,63337,CONSTRUCAP,vacancy_type_effective,2025-06-13T21:46:31.737Z,2025-08-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9360001,144517,Mobyan,vacancy_type_effective,2025-06-13T20:31:49.695Z,2025-08-31T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9334128,111523,Pacaembu Autopeças,vacancy_type_effective,2025-06-13T19:16:57.327Z,2025-12-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9359282,75613,Movida Aluguel de Carros,vacancy_type_effective,2025-06-13T19:03:55.746Z,2025-08-12T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9358716,4008,Banco BBC Digital,vacancy_type_effective,2025-06-13T18:24:58.189Z,2025-08-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9358715,950,Ingram Micro,vacancy_type_effective,2025-06-13T18:15:58.251Z,2025-08-12T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9174782,77857,LM Mobilidade,vacancy_type_effective,2025-06-13T17:50:25.604Z,2025-07-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9332368,210,Grupo Boticário,vacancy_type_effective,2025-06-13T16:56:16.788Z,2025-06-18T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9356871,938,Azul Linhas Aéreas Brasileiras,vacancy_type_effective,2025-06-13T16:55:59.765Z,2025-06-20T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9355751,62646,Grupo Panvel,vacancy_type_effective,2025-06-13T16:55:13.260Z,2025-08-12T00:00:00.000Z,False,Eldorado do Sul,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+9357482,3920,Atento TI,vacancy_type_effective,2025-06-13T16:02:06.904Z,2025-08-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9356533,3832,Matrix Energia,vacancy_type_effective,2025-06-13T15:17:34.451Z,2025-08-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9356764,890,Serhum Consultoria em RH,vacancy_type_effective,2025-06-13T14:31:52.260Z,2025-06-27T00:00:00.000Z,False,São Luís,Maranhão,Brasil,{'friendlyBadge': True},True,on-site
+9247801,61984,DM,vacancy_type_effective,2025-06-13T14:25:19.056Z,2025-06-30T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9355177,186725,Saquers Tech,vacancy_type_effective,2025-06-13T12:56:29.898Z,2025-08-12T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9355314,601,Livelo,vacancy_type_effective,2025-06-13T12:55:07.594Z,2025-09-19T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9120006,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-13T00:39:15.758Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9259615,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-13T00:29:30.834Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9352121,40402,AGROJEM,vacancy_type_effective,2025-06-12T20:26:00.506Z,2025-06-30T00:00:00.000Z,False,Palmas,Tocantins,Brasil,{'friendlyBadge': False},True,on-site
+9321341,108365,Venha fazer parte da revolução da logística e mobilidade no mundo!,vacancy_type_effective,2025-06-12T19:55:30.147Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9350859,21691,Rocha Telecom,vacancy_type_internship,2025-06-12T19:51:59.016Z,2025-08-11T00:00:00.000Z,False,Bauru,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9285872,2068,Dedalus Prime,vacancy_type_effective,2025-06-12T18:58:13.252Z,2025-08-02T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9350893,208075,Rede Américas,vacancy_type_effective,2025-06-12T18:57:16.094Z,2025-07-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9333740,71488,Minsait an Indra Company,vacancy_type_effective,2025-06-12T18:51:36.850Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9350104,20767,Cresol Oficial,vacancy_type_effective,2025-06-12T18:47:22.604Z,2025-08-11T00:00:00.000Z,False,Francisco Beltrão,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9350772,134,Lojas Renner,vacancy_type_effective,2025-06-12T18:46:27.774Z,2025-07-28T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+9350229,57035,Wise Group,vacancy_legal_entity,2025-06-12T18:24:07.413Z,2025-11-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9349947,2254,"Every Cybersecurity, GRC and Privacy Solutions",vacancy_type_effective,2025-06-12T17:48:58.098Z,2025-08-11T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9349837,202037,"Minerva Foods Tecnologia – Inovação que conecta, tecnologia que transforma.",vacancy_type_effective,2025-06-12T17:47:51.302Z,2025-08-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9349873,2254,"Every Cybersecurity, GRC and Privacy Solutions",vacancy_type_effective,2025-06-12T17:43:03.537Z,2025-08-11T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9349572,310,AGROTOOLS,vacancy_type_effective,2025-06-12T17:09:30.072Z,2025-08-11T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9349114,63484,Inteli - Instituto de Tecnologia e Liderança,vacancy_type_effective,2025-06-12T16:44:17.979Z,2025-08-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9347450,1410,Leega Consultoria,vacancy_type_effective,2025-06-12T16:18:44.378Z,2025-08-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9348817,203099,NCS,vacancy_type_effective,2025-06-12T15:35:17.759Z,2025-08-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9322988,120526,Radix Engenharia e Software,vacancy_type_effective,2025-06-12T15:26:01.759Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9322972,120526,Radix Engenharia e Software,vacancy_type_effective,2025-06-12T15:18:14.546Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9323105,120526,Radix Engenharia e Software,vacancy_type_effective,2025-06-12T15:11:40.152Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9348208,3920,Atento TI,vacancy_type_effective,2025-06-12T14:55:49.755Z,2025-08-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9330647,202037,"Minerva Foods Tecnologia – Inovação que conecta, tecnologia que transforma.",vacancy_type_effective,2025-06-12T14:37:55.950Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9330764,202037,"Minerva Foods Tecnologia – Inovação que conecta, tecnologia que transforma.",vacancy_type_effective,2025-06-12T14:31:51.158Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9347320,4008,Banco BBC Digital,vacancy_type_effective,2025-06-12T13:48:40.350Z,2025-08-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9296337,164543,Corporativo Grupo Casas Bahia,vacancy_type_effective,2025-06-12T12:58:48.097Z,2025-06-30T00:00:00.000Z,False,São Caetano do Sul,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9344102,1410,Leega Consultoria,vacancy_legal_entity,2025-06-12T11:53:48.508Z,2025-08-10T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9345878,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-12T11:35:26.746Z,2025-08-11T00:00:00.000Z,False,Belém,Pará,Brasil,{'friendlyBadge': True},True,on-site
+9322387,679,Localiza&Co,vacancy_type_effective,2025-06-12T01:46:59.434Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9344170,32053,A3Data,vacancy_type_effective,2025-06-11T21:52:29.405Z,2025-08-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9341215,117226,VENHA SER #SANGUELARANJA 🧡🚀,vacancy_type_temporary,2025-06-11T21:28:55.056Z,2025-08-10T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9301799,317,Sicredi,vacancy_type_effective,2025-06-11T20:46:09.176Z,2025-07-07T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9343012,608,GRPCOM,vacancy_type_effective,2025-06-11T19:50:49.866Z,2025-06-18T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},False,on-site
+9342421,1413,Farmácias APP,vacancy_type_autonomous,2025-06-11T19:10:36.462Z,2025-08-10T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9290646,2068,Dedalus Prime,vacancy_type_effective,2025-06-11T18:41:34.137Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9341456,58652,Brasilseg,vacancy_type_effective,2025-06-11T17:57:59.868Z,2025-07-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9341295,145540,GrupoVillela | Gestão de Carreiras,vacancy_type_associate,2025-06-11T17:32:14.164Z,2025-07-11T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},False,on-site
+9228065,2762,Bernoulli Educação,vacancy_type_effective,2025-06-11T17:21:02.457Z,2025-07-25T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9260613,317,Sicredi,vacancy_type_effective,2025-06-11T17:07:04.108Z,2025-07-13T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,hybrid
+9340079,1603,Valid,vacancy_type_effective,2025-06-11T15:24:50.157Z,2025-06-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9312885,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-11T15:18:00.658Z,2025-08-05T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9242227,74,Cielo,vacancy_type_effective,2025-06-11T15:16:04.510Z,2025-07-27T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9285962,2068,Dedalus Prime,vacancy_type_effective,2025-06-11T15:03:05.721Z,2025-08-02T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9285917,2068,Dedalus Prime,vacancy_type_effective,2025-06-11T15:02:45.511Z,2025-08-02T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9320704,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-06-11T14:55:10.088Z,2025-08-08T00:00:00.000Z,False,Vila Velha,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+9325093,9250,Lefosse,vacancy_type_effective,2025-06-11T14:42:01.619Z,2025-08-08T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9339448,317,Sicredi,vacancy_type_effective,2025-06-11T14:31:59.033Z,2025-07-31T00:00:00.000Z,False,Cristalina,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9193253,71422,V.tal | o futuro passa por aqui,vacancy_type_effective,2025-06-11T14:27:29.927Z,2025-07-18T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9334003,317,Sicredi,vacancy_type_effective,2025-06-11T14:20:19.291Z,2025-07-31T00:00:00.000Z,False,Cristalina,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9338290,43834,Castrolanda Cooperativa Agroindustrial ,vacancy_type_effective,2025-06-11T13:52:17.454Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9338436,75613,Movida Aluguel de Carros,vacancy_type_effective,2025-06-11T13:52:05.092Z,2025-08-10T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9338748,199198,Via de Acesso,vacancy_type_internship,2025-06-11T13:42:22.938Z,2025-08-10T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9338739,89706,Spark Influencer Marketing,vacancy_legal_entity,2025-06-11T13:29:46.914Z,2025-08-10T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9338061,43834,Castrolanda Cooperativa Agroindustrial ,vacancy_type_effective,2025-06-11T12:52:15.024Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9338056,75052,Vagas Grupo Sabin,vacancy_type_effective,2025-06-11T12:39:36.130Z,2025-07-31T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': False},True,on-site
+9338000,127423,Cacau Show,vacancy_type_effective,2025-06-11T12:37:01.947Z,2025-08-10T00:00:00.000Z,False,Itapevi,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9337651,950,Ingram Micro,vacancy_type_effective,2025-06-11T12:11:49.066Z,2025-08-10T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9335500,165243,Ouribank,vacancy_type_effective,2025-06-10T21:02:47.587Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9309975,1714,Petz,vacancy_type_effective,2025-06-10T20:51:25.160Z,2025-07-10T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9335249,164042,Norte Marketing,vacancy_type_effective,2025-06-10T20:40:56.336Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9325218,71488,Minsait an Indra Company,vacancy_type_effective,2025-06-10T20:40:09.716Z,2025-07-10T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9335099,118513,Americanas S.A.,vacancy_type_effective,2025-06-10T20:28:38.687Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9334246,84556,Stefanini Group,vacancy_type_effective,2025-06-10T19:46:32.335Z,2025-08-09T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9333379,3410,Coleguium,vacancy_type_effective,2025-06-10T19:41:25.147Z,2025-08-09T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': False},True,on-site
+9334312,317,Sicredi,vacancy_type_effective,2025-06-10T19:30:34.401Z,2025-06-30T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,hybrid
+9333848,203099,NCS,vacancy_type_effective,2025-06-10T19:00:10.380Z,2025-08-09T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9333728,32053,A3Data,vacancy_type_effective,2025-06-10T18:59:18.518Z,2025-07-28T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9290654,679,Localiza&Co,vacancy_type_effective,2025-06-10T18:17:52.683Z,2025-08-03T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,,{'friendlyBadge': False},True,hybrid
+9333274,1258,SiDi,vacancy_type_internship,2025-06-10T18:13:01.917Z,2025-07-31T00:00:00.000Z,False,Recife,Pernambuco,Brasil,{'friendlyBadge': False},True,on-site
+9332539,87856,Gocase Brasil,vacancy_type_internship,2025-06-10T17:38:10.120Z,2025-08-09T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': False},True,hybrid
+9331139,84556,Stefanini Group,vacancy_type_effective,2025-06-10T17:12:49.865Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9285310,1761,Bernhoeft,vacancy_type_effective,2025-06-10T16:58:46.164Z,2025-08-02T00:00:00.000Z,False,Recife,Pernambuco,Brasil,{'friendlyBadge': True},True,hybrid
+9332180,32053,A3Data,vacancy_type_effective,2025-06-10T16:32:33.895Z,2025-08-09T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9332173,921,Itix,vacancy_legal_entity,2025-06-10T16:32:27.428Z,2025-07-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9331667,69978,Pitzi ,vacancy_type_effective,2025-06-10T15:53:40.127Z,2025-09-30T00:00:00.000Z,False,Osasco,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9331482,40535,Globo,vacancy_type_effective,2025-06-10T15:16:07.931Z,2025-07-31T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},False,hybrid
+9296258,75976,BIP Brasil,vacancy_type_effective,2025-06-10T14:50:51.926Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9268439,317,Sicredi,vacancy_type_effective,2025-06-10T14:32:41.216Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9330757,950,Ingram Micro,vacancy_type_effective,2025-06-10T14:31:58.483Z,2025-08-09T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9296171,75976,BIP Brasil,vacancy_type_effective,2025-06-10T14:29:26.399Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9271274,317,Sicredi,vacancy_type_effective,2025-06-10T14:29:17.056Z,2025-07-21T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9272112,317,Sicredi,vacancy_type_effective,2025-06-10T14:25:01.809Z,2025-07-21T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9272178,317,Sicredi,vacancy_type_effective,2025-06-10T14:19:26.764Z,2025-08-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9330640,205270,Dafiti ,vacancy_type_effective,2025-06-10T14:15:37.893Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9330098,40535,Globo,vacancy_type_effective,2025-06-10T13:33:13.914Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9329695,317,Sicredi,vacancy_type_effective,2025-06-10T13:07:58.104Z,2025-06-22T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9328878,911,GrupoSC Distribuidora de Medicamentos,vacancy_type_effective,2025-06-10T11:53:23.507Z,2025-08-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9262736,210,Grupo Boticário,vacancy_type_effective,2025-06-09T21:40:51.528Z,2025-07-29T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9123153,1401,YDUQS,vacancy_type_effective,2025-06-09T21:29:47.841Z,2025-07-08T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9281274,56,Cadastra ,vacancy_type_effective,2025-06-09T20:24:11.782Z,2025-09-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9325616,3920,Atento TI,vacancy_type_effective,2025-06-09T19:46:20.967Z,2025-07-04T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9325627,18655,Lojas Renner,vacancy_type_effective,2025-06-09T19:43:13.888Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9324827,203099,NCS,vacancy_type_effective,2025-06-09T19:00:00.388Z,2025-07-10T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9323407,4960,CNI / SESI / SENAI / IEL,vacancy_type_effective,2025-06-09T18:13:20.917Z,2025-06-23T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,on-site
+9323919,156991,Aceleraí,vacancy_type_internship,2025-06-09T18:03:16.603Z,2025-08-08T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9313189,3938,Viacredi,vacancy_type_effective,2025-06-09T17:17:12.433Z,2025-06-30T00:00:00.000Z,False,Blumenau,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+9322993,479,GnTech ,vacancy_legal_entity,2025-06-09T16:31:12.653Z,2026-12-31T00:00:00.000Z,False,Florianópolis,Santa Catarina,Brasil,{'friendlyBadge': False},False,hybrid
+9322930,596,GPA,vacancy_type_effective,2025-06-09T16:19:47.514Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9322650,40535,Globo,vacancy_type_effective,2025-06-09T15:50:25.446Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9320955,152107,Smurfit Westrock Brasil,vacancy_type_effective,2025-06-09T14:25:19.624Z,2025-06-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9261138,71488,Minsait an Indra Company,vacancy_type_effective,2025-06-09T13:03:03.796Z,2025-07-29T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': True},True,hybrid
+9320100,677,Supergasbras,vacancy_type_effective,2025-06-09T12:19:23.190Z,2025-08-08T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9320011,75976,BIP Brasil,vacancy_type_effective,2025-06-09T12:06:41.191Z,2025-08-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9315204,50566,Grupo MAG,vacancy_type_effective,2025-06-09T11:48:49.286Z,2025-07-01T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9287789,115774,Grupo Salta Educação,vacancy_type_effective,2025-06-06T22:31:37.754Z,2025-08-02T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9286899,3719,Bauducco,vacancy_type_effective,2025-06-06T20:43:34.310Z,2025-08-02T00:00:00.000Z,False,Guarulhos,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9310216,117226,VENHA SER #SANGUELARANJA 🧡🚀,vacancy_type_effective,2025-06-06T20:29:46.911Z,2025-08-05T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9286776,71488,Minsait an Indra Company,vacancy_type_effective,2025-06-06T20:16:51.786Z,2025-08-02T00:00:00.000Z,False,São Carlos,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9314128,18655,Lojas Renner,vacancy_type_effective,2025-06-06T19:17:05.418Z,2025-08-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9309492,1954,Ibmec,vacancy_type_lecturer,2025-06-06T18:52:36.920Z,2025-08-05T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,on-site
+9313607,317,Sicredi,vacancy_type_effective,2025-06-06T18:49:58.562Z,2025-07-07T00:00:00.000Z,False,Rondonópolis,Mato Grosso,Brasil,{'friendlyBadge': True},False,on-site
+9294399,39182,GAVB ,vacancy_type_effective,2025-06-06T18:33:19.827Z,2025-06-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9312973,21826,Dasa,vacancy_type_effective,2025-06-06T18:24:41.269Z,2025-07-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9313118,83368,Relevo,vacancy_type_effective,2025-06-06T18:00:51.576Z,2025-08-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9313004,83368,Relevo,vacancy_type_effective,2025-06-06T17:55:26.815Z,2025-10-17T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9223055,9945,Vem ser CASSI,vacancy_type_effective,2025-06-06T17:08:41.884Z,2025-06-22T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': False},True,on-site
+9245722,169234,LWSA Diversidade,vacancy_type_effective,2025-06-06T16:40:37.262Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9273882,76834,Globalweb,vacancy_type_effective,2025-06-06T16:26:53.335Z,2025-08-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9269087,107260,Honda,vacancy_type_effective,2025-06-06T16:19:58.400Z,2026-01-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9273047,131746,Alloha Fibra,vacancy_type_effective,2025-06-06T14:52:13.144Z,2025-06-30T00:00:00.000Z,False,Mauá,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9284366,131746,Alloha Fibra,vacancy_type_effective,2025-06-06T14:45:56.622Z,2025-06-30T00:00:00.000Z,False,Mauá,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9208891,25519,EMBRACON ADMINISTRADORA DE CONSÓRCIO,vacancy_type_effective,2025-06-06T14:20:41.475Z,2025-07-20T00:00:00.000Z,False,Santana de Parnaíba,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9306613,1410,Leega Consultoria,vacancy_legal_entity,2025-06-06T14:19:03.601Z,2025-08-04T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9309878,476,TPC Logística Inteligente,vacancy_type_effective,2025-06-06T14:06:21.555Z,2025-08-05T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9269084,107260,Honda,vacancy_type_effective,2025-06-06T13:58:56.940Z,2026-03-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9310557,3920,Atento TI,vacancy_type_effective,2025-06-06T13:58:31.981Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9310288,64197,Instituto Unibanco,vacancy_type_effective,2025-06-06T13:44:16.247Z,2025-08-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9285462,248,Votorantim Cimentos,vacancy_type_effective,2025-06-06T13:34:52.400Z,2025-08-02T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9306415,117226,VENHA SER #SANGUELARANJA 🧡🚀,vacancy_type_effective,2025-06-06T12:34:20.872Z,2025-08-04T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9309576,198868,Lojas Koerich,vacancy_type_effective,2025-06-06T12:23:42.772Z,2025-07-06T00:00:00.000Z,False,Biguaçu,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+9296121,135310,Flamengo,vacancy_type_internship,2025-06-05T20:52:19.569Z,2025-08-03T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9305651,18655,Lojas Renner,vacancy_type_effective,2025-06-05T20:18:38.389Z,2025-08-04T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9285485,3326,Banco Bmg,vacancy_type_effective,2025-06-05T19:59:06.981Z,2025-08-24T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9208671,3326,Banco Bmg,vacancy_type_effective,2025-06-05T19:08:56.507Z,2025-07-20T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9304402,74,Cielo,vacancy_type_effective,2025-06-05T18:58:36.528Z,2025-08-31T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9303675,164642,Vem #SerHype,vacancy_type_effective,2025-06-05T17:52:52.921Z,2025-10-31T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': False},True,hybrid
+9291525,74,Cielo,vacancy_type_effective,2025-06-05T17:43:35.538Z,2025-08-03T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9291374,74,Cielo,vacancy_type_effective,2025-06-05T17:38:45.313Z,2025-08-03T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9300245,84820,Aurum,vacancy_type_effective,2025-06-05T16:31:58.526Z,2025-06-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9302218,164473,Atlantica Hospitality International,vacancy_type_effective,2025-06-05T14:52:50.550Z,2025-08-04T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9300040,70267,C&A Brasil,vacancy_type_effective,2025-06-05T13:18:16.722Z,2025-12-31T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9155891,80332,AlmapBBDO,vacancy_type_freelancer,2025-06-05T11:36:07.719Z,2025-07-13T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9298527,95182,Spread Tecnologia,vacancy_type_effective,2025-06-05T09:40:07.765Z,2025-08-04T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9297040,40535,Globo,vacancy_type_effective,2025-06-05T00:02:21.328Z,2025-06-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9167890,102541,WPP Media Services,vacancy_type_effective,2025-06-04T22:00:43.840Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9296358,133924,Nomos - Melhores Investidores,vacancy_legal_entity,2025-06-04T21:31:42.058Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9250240,1954,Ibmec,vacancy_type_lecturer,2025-06-04T21:14:29.992Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9295728,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-06-04T20:28:01.322Z,2025-09-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9167446,94621,Ituran Brasil ,vacancy_type_effective,2025-06-04T20:19:15.440Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9295642,59476,Mycon,vacancy_type_effective,2025-06-04T20:15:32.771Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9235499,70697,YDUQS - Vagas Tech,vacancy_type_effective,2025-06-04T20:04:46.730Z,2025-07-26T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9260986,164646,Tupy,vacancy_type_effective,2025-06-04T19:48:35.552Z,2025-07-29T00:00:00.000Z,False,Joinville,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+9295221,1782,Jadlog Logística SA,vacancy_type_effective,2025-06-04T19:34:15.021Z,2026-01-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9294946,21826,Dasa,vacancy_type_effective,2025-06-04T19:13:00.121Z,2025-08-03T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9294101,26,MaxMilhas,vacancy_type_effective,2025-06-04T19:09:11.690Z,2025-08-03T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': False},True,on-site
+9294212,165927,Grupo Sinova,vacancy_type_effective,2025-06-04T18:11:18.644Z,2025-08-30T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': False},True,on-site
+9243458,70697,YDUQS - Vagas Tech,vacancy_type_effective,2025-06-04T18:00:58.412Z,2025-07-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9270965,163914,Corporativo - Agibank,vacancy_type_effective,2025-06-04T17:27:26.105Z,2025-08-01T00:00:00.000Z,False,Campinas,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9290973,29149,Ambipar,vacancy_type_effective,2025-06-04T13:33:00.767Z,2025-07-01T00:00:00.000Z,False,Nova Odessa,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9249690,3759,Itaú Unibanco,vacancy_type_effective,2025-06-04T13:26:34.250Z,2025-08-27T00:00:00.000Z,False,Sao Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9201713,92113,iugu,vacancy_type_effective,2025-06-04T13:16:28.388Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9277367,752,Pmweb,vacancy_type_effective,2025-06-04T13:15:37.971Z,2025-07-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9290594,118513,Americanas S.A.,vacancy_type_effective,2025-06-04T12:50:39.755Z,2025-09-03T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9290248,96176,QCA,vacancy_type_effective,2025-06-04T12:33:21.832Z,2025-08-03T00:00:00.000Z,False,Recife,Pernambuco,Brasil,{'friendlyBadge': True},False,on-site
+9169218,782,Cyrela,vacancy_type_effective,2025-06-04T12:31:58.043Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9290304,164494,ZAMP,vacancy_type_effective,2025-06-04T12:17:41.626Z,2025-08-03T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9287064,512,RankMyApp,vacancy_legal_entity,2025-06-03T21:19:18.559Z,2025-08-02T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9274091,3952,Caju,vacancy_type_effective,2025-06-03T21:18:19.846Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9286144,28060,Conexia,vacancy_type_effective,2025-06-03T20:02:19.198Z,2025-08-02T00:00:00.000Z,False,Ribeirão Preto,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9282732,1603,Valid,vacancy_type_effective,2025-06-03T19:10:15.243Z,2025-07-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9284969,1167,GOL Linhas Aéreas,vacancy_type_effective,2025-06-03T18:32:20.038Z,2025-08-02T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9205996,111616,Grupo Açotubo,vacancy_type_effective,2025-06-03T17:50:16.459Z,2025-07-20T00:00:00.000Z,False,Guarulhos,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9284216,18655,Lojas Renner,vacancy_type_effective,2025-06-03T17:26:55.832Z,2025-08-02T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+9243079,129238,Centro de Excelência Votorantim,vacancy_type_effective,2025-06-03T17:01:41.486Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9281105,18655,Lojas Renner,vacancy_type_effective,2025-06-03T14:45:15.831Z,2025-10-03T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+9281317,118513,Americanas S.A.,vacancy_type_effective,2025-06-03T14:09:58.414Z,2025-09-02T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9277905,1717,grupo enjoei,vacancy_type_effective,2025-06-03T13:03:40.489Z,2025-08-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9194579,201871,Grupo OLX,vacancy_type_effective,2025-06-03T13:01:25.244Z,2025-08-04T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9257739,86404,Aegea Saneamento,vacancy_type_effective,2025-06-02T23:12:28.174Z,2025-07-29T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9237519,317,Sicredi,vacancy_type_effective,2025-06-02T21:36:23.871Z,2025-07-26T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9273293,1410,Leega Consultoria,vacancy_type_effective,2025-06-02T20:46:52.409Z,2025-08-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9274974,137587,MJV Technology & Innovation,vacancy_type_effective,2025-06-02T20:31:00.926Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9232731,76834,Globalweb,vacancy_type_effective,2025-06-02T20:24:18.765Z,2025-07-25T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},False,hybrid
+9277003,28887,Eve Air Mobility,vacancy_type_effective,2025-06-02T20:21:04.218Z,2025-09-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9254989,78187,Carreiras Ypê,vacancy_type_effective,2025-06-02T20:07:38.562Z,2025-07-28T00:00:00.000Z,False,Campinas,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9238814,61357,Atlântica Agroindustrial,vacancy_type_effective,2025-06-02T19:32:43.344Z,2025-07-26T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': False},False,on-site
+9122755,166263,Eletrobras,vacancy_type_effective,2025-06-02T19:14:43.475Z,2025-07-08T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},False,on-site
+9275568,56609,Árbore Vagas,vacancy_type_effective,2025-06-02T18:39:01.792Z,2025-08-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9275348,911,GrupoSC Distribuidora de Medicamentos,vacancy_type_effective,2025-06-02T18:18:40.536Z,2025-08-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9274166,203620,Curta ,vacancy_type_effective,2025-06-02T17:42:35.226Z,2025-08-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9252991,211408,Motiva,vacancy_type_effective,2025-06-02T17:16:14.923Z,2025-06-19T00:00:00.000Z,False,Jundiaí,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9261790,376,PagBank,vacancy_type_effective,2025-06-02T16:22:02.835Z,2025-07-29T00:00:00.000Z,False,Sao Paulo,São Paulo,,{'friendlyBadge': True},True,hybrid
+9273037,17434,Dannemann,vacancy_type_effective,2025-06-02T14:47:12.403Z,2025-08-01T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,on-site
+9247642,183259,VIVARA Corporativo,vacancy_type_effective,2025-06-02T14:39:40.990Z,2025-07-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9246987,183259,VIVARA Corporativo,vacancy_type_effective,2025-06-02T14:37:27.663Z,2025-07-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9272301,670,Shoulder,vacancy_type_effective,2025-06-02T14:08:52.172Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9271656,33538,Riachuelo ,vacancy_type_effective,2025-06-02T13:09:28.070Z,2025-08-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9269762,32086,Dasa Tecnologia,vacancy_type_effective,2025-06-02T03:27:50.733Z,2025-08-01T00:00:00.000Z,False,,,,{'friendlyBadge': True},True,hybrid
+9197432,76834,Globalweb,vacancy_legal_entity,2025-06-01T20:09:03.656Z,2025-06-24T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,on-site
+9197020,76834,Globalweb,vacancy_legal_entity,2025-06-01T20:05:11.969Z,2025-06-24T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,hybrid
+9197066,76834,Globalweb,vacancy_legal_entity,2025-06-01T19:59:22.046Z,2025-07-19T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,hybrid
+9252955,84556,Stefanini Group,vacancy_type_effective,2025-05-30T22:09:04.854Z,2025-07-28T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9262582,164494,ZAMP,vacancy_type_effective,2025-05-30T21:27:54.347Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9262801,199198,Via de Acesso,vacancy_type_internship,2025-05-30T21:27:04.132Z,2025-07-29T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9260574,104271,MTP Métodos e Tecnologia – Brasil,vacancy_type_effective,2025-05-30T21:26:51.728Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9262753,2827,+A Educação,vacancy_type_effective,2025-05-30T21:18:21.027Z,2025-07-29T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9261508,66175,Close-up International,vacancy_type_effective,2025-05-30T19:43:50.592Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9260368,53998,Fast Shop S/A,vacancy_type_effective,2025-05-30T17:32:55.561Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9244107,134881,Venha construir o futuro com a gente!,vacancy_type_effective,2025-05-30T17:28:32.980Z,2025-07-27T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9259054,53998,Fast Shop S/A,vacancy_type_effective,2025-05-30T17:11:37.192Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9243961,56574,Instituto Infnet - Venha ser estagiário ou trainee!,vacancy_type_internship,2025-05-30T16:46:22.719Z,2025-08-29T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9259388,317,Sicredi,vacancy_type_effective,2025-05-30T15:00:58.223Z,2025-07-29T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': True},True,on-site
+9236201,25519,EMBRACON ADMINISTRADORA DE CONSÓRCIO,vacancy_type_effective,2025-05-30T14:37:16.883Z,2025-07-26T00:00:00.000Z,False,Santana de Parnaíba,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9250232,1954,Ibmec,vacancy_type_lecturer,2025-05-30T14:04:49.202Z,2025-08-30T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9257248,82677,Mantiqueira Brasil,vacancy_type_effective,2025-05-30T11:24:16.210Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9246418,71488,Minsait an Indra Company,vacancy_type_effective,2025-05-30T01:45:34.087Z,2025-07-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9253746,75316,Colégio Sigma,vacancy_type_effective,2025-05-30T00:26:18.769Z,2025-07-28T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': False},True,on-site
+9256291,40535,Globo,vacancy_type_effective,2025-05-29T22:40:51.154Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9197562,164547,Tecnologia Grupo Casas Bahia,vacancy_type_effective,2025-05-29T22:37:25.443Z,2025-07-19T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9256212,9448,Brivia,vacancy_legal_entity,2025-05-29T21:55:49.771Z,2025-07-28T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9255682,1570,Memed,vacancy_type_effective,2025-05-29T20:55:57.350Z,2025-06-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9255464,4008,Banco BBC Digital,vacancy_type_effective,2025-05-29T20:35:46.830Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9255166,18655,Lojas Renner,vacancy_type_effective,2025-05-29T19:53:58.062Z,2025-08-02T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9199702,117853,BeFly,vacancy_type_effective,2025-05-29T19:52:04.120Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9254634,129602,Cogna Educação,vacancy_type_talent_pool,2025-05-29T19:45:42.614Z,2025-12-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9216366,92113,iugu,vacancy_type_effective,2025-05-29T19:43:39.875Z,2025-07-21T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9114080,60697,VOLL,vacancy_type_effective,2025-05-29T19:10:25.208Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9233860,164156, IT'SSEG COMPANY - ACRISURE ,vacancy_type_effective,2025-05-29T19:00:38.076Z,2025-07-25T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9219042,60697,VOLL,vacancy_type_effective,2025-05-29T18:31:53.631Z,2025-07-22T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9252894,75613,Movida Aluguel de Carros,vacancy_type_effective,2025-05-29T17:41:21.910Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9252455,75977,Rio Quality,vacancy_type_effective,2025-05-29T15:46:01.221Z,2025-07-28T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9244875,1410,Leega Consultoria,vacancy_type_effective,2025-05-29T14:57:16.297Z,2025-07-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9251602,1025,Hypera Pharma,vacancy_type_effective,2025-05-29T14:35:58.758Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9198599,76834,Globalweb,vacancy_legal_entity,2025-05-29T13:23:51.053Z,2025-07-19T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9198471,76834,Globalweb,vacancy_legal_entity,2025-05-29T13:20:45.359Z,2025-07-19T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9250467,211814,Animal Marketing ,vacancy_type_autonomous,2025-05-29T12:41:28.391Z,2025-06-23T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9216331,74,Cielo,vacancy_type_effective,2025-05-29T12:06:59.502Z,2025-07-21T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9157351,43372,Leo Madeiras,vacancy_type_effective,2025-05-28T22:05:28.757Z,2025-06-30T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9248422,1167,GOL Linhas Aéreas,vacancy_type_effective,2025-05-28T21:54:42.774Z,2025-09-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9244743,643,Afya ,vacancy_type_effective,2025-05-28T20:57:14.603Z,2025-07-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9196373,96404,Vagas Banco Sofisa,vacancy_type_effective,2025-05-28T20:18:30.238Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9246914,84556,Stefanini Group,vacancy_type_effective,2025-05-28T19:16:44.312Z,2025-07-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9215026,92580,Portobello Shop,vacancy_type_effective,2025-05-28T18:28:45.732Z,2025-07-21T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9245812,135,Embraer,vacancy_type_effective,2025-05-28T17:29:04.263Z,2025-07-15T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9245747,135,Embraer,vacancy_type_effective,2025-05-28T17:23:04.711Z,2025-07-15T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9245641,3472,Rede Gazeta,vacancy_type_effective,2025-05-28T17:09:17.237Z,2025-07-27T00:00:00.000Z,False,Vitória,Espírito Santo,Brasil,{'friendlyBadge': False},False,on-site
+9245541,135,Embraer,vacancy_type_effective,2025-05-28T16:59:33.645Z,2025-07-15T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9244500,476,TPC Logística Inteligente,vacancy_type_talent_pool,2025-05-28T16:45:11.197Z,2025-09-30T00:00:00.000Z,False,São Carlos,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9199804,157288,Porto,vacancy_type_effective,2025-05-28T15:14:14.148Z,2025-06-20T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8909419,85975,Instituto de Pesquisas ELDORADO,vacancy_type_internship,2025-05-28T14:12:17.141Z,2025-07-31T00:00:00.000Z,False,Campinas,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9213752,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-05-28T13:08:47.869Z,2025-07-21T00:00:00.000Z,False,Vila Velha,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+9213797,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-05-28T13:03:50.207Z,2025-07-21T00:00:00.000Z,False,Vila Velha,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+9242516,74,Cielo,vacancy_type_effective,2025-05-28T12:12:30.119Z,2025-07-31T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9241389,164776,Granado - Desde 1870,vacancy_type_effective,2025-05-27T22:17:26.271Z,2025-07-26T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,on-site
+9051343,70697,YDUQS - Vagas Tech,vacancy_type_effective,2025-05-27T21:43:20.579Z,2025-06-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+7836067,32053,A3Data,vacancy_type_effective,2025-05-27T21:34:37.856Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9237465,1410,Leega Consultoria,vacancy_type_effective,2025-05-27T21:02:46.171Z,2025-07-26T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9239881,1749,Winover,vacancy_type_effective,2025-05-27T20:52:43.176Z,2025-08-30T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9223664,4267,Vagas MRM Brasil,vacancy_legal_entity,2025-05-27T20:48:45.775Z,2025-07-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9193721,3476,Raízen ,vacancy_type_effective,2025-05-27T20:14:14.712Z,2025-07-18T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9240045,133924,Nomos - Melhores Investidores,vacancy_legal_entity,2025-05-27T19:41:29.782Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9239804,18655,Lojas Renner,vacancy_type_effective,2025-05-27T19:41:29.201Z,2025-07-26T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9239566,2819,UNIASSELVI,vacancy_type_effective,2025-05-27T19:28:29.114Z,2025-07-26T00:00:00.000Z,False,Indaial,Santa Catarina,Brasil,{'friendlyBadge': True},True,hybrid
+9197164,3759,Itaú Unibanco,vacancy_type_effective,2025-05-27T19:20:17.395Z,2025-08-18T00:00:00.000Z,False,Sao Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9239450,1717,grupo enjoei,vacancy_type_effective,2025-05-27T19:01:18.162Z,2025-07-25T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9161761,86404,Aegea Saneamento,vacancy_type_internship,2025-05-27T18:58:32.169Z,2025-07-13T00:00:00.000Z,False,Indaiatuba,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9196226,3898,Transpocred,vacancy_type_effective,2025-05-27T18:27:41.603Z,2025-07-19T00:00:00.000Z,False,Florianópolis,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+9196024,172831,Espaçolaser,vacancy_type_effective,2025-05-27T14:47:25.840Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9237055,8623,Cimed,vacancy_type_effective,2025-05-27T14:39:22.498Z,2025-07-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9090471,167883,Grupo Level,vacancy_type_effective,2025-05-27T14:04:13.140Z,2025-07-04T00:00:00.000Z,False,Itajaí,Santa Catarina,Brasil,{'friendlyBadge': True},True,on-site
+9206337,939,Iguá Saneamento,vacancy_type_effective,2025-05-27T12:44:05.907Z,2025-06-18T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},False,on-site
+9190763,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-05-27T12:17:28.815Z,2025-06-20T00:00:00.000Z,False,Vila Velha,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+9228370,67132,C-PRO SERVIÇOS ,vacancy_type_effective,2025-05-27T12:13:15.957Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9234061,84556,Stefanini Group,vacancy_type_effective,2025-05-26T21:58:14.547Z,2025-07-25T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9233566,173359,wBrain,vacancy_legal_entity,2025-05-26T20:55:38.287Z,2025-06-30T00:00:00.000Z,True,,,,{'friendlyBadge': False},True,remote
+9231942,179827,ACIF - Associação Empresarial de Florianópolis ,vacancy_type_effective,2025-05-26T20:29:01.274Z,2025-07-31T00:00:00.000Z,False,Florianópolis,Santa Catarina,Brasil,{'friendlyBadge': False},False,on-site
+9232353,643,Afya ,vacancy_type_effective,2025-05-26T19:24:16.140Z,2025-07-25T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9218871,134881,Venha construir o futuro com a gente!,vacancy_type_effective,2025-05-26T17:50:57.124Z,2025-07-22T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9222860,26905,Agrofel,vacancy_type_effective,2025-05-26T14:38:12.911Z,2025-07-22T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9187548,524,Digio,vacancy_type_effective,2025-05-26T13:46:44.830Z,2025-07-18T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9227672,124388,Bellinati Perez,vacancy_type_effective,2025-05-26T12:10:10.964Z,2025-06-26T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,hybrid
+8932622,317,Sicredi,vacancy_type_effective,2025-05-23T22:33:01.224Z,2025-06-23T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},False,hybrid
+9223997,669,BANCO DAYCOVAL,vacancy_type_talent_pool,2025-05-23T22:04:47.385Z,2025-07-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9223640,2610,Eletromidia,vacancy_type_effective,2025-05-23T20:59:30.968Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9223575,2610,Eletromidia,vacancy_type_effective,2025-05-23T20:52:36.153Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9223448,112111,Engbras,vacancy_type_effective,2025-05-23T20:46:11.756Z,2025-06-23T00:00:00.000Z,False,São Bernardo do Campo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9222529,83963,GL events Brasil ,vacancy_type_effective,2025-05-23T19:13:37.680Z,2025-07-22T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},False,on-site
+9219109,1410,Leega Consultoria,vacancy_type_effective,2025-05-23T17:01:11.038Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9142601,164543,Corporativo Grupo Casas Bahia,vacancy_type_effective,2025-05-23T15:49:40.143Z,2025-09-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9219377,1270,Join | Creative Tech,vacancy_type_effective,2025-05-23T13:53:13.277Z,2025-07-22T00:00:00.000Z,False,Brasília,Distrito Federal,Brasil,{'friendlyBadge': True},True,hybrid
+9215583,3759,Itaú Unibanco,vacancy_type_effective,2025-05-23T13:07:57.144Z,2025-08-20T00:00:00.000Z,False,Sao Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9208542,58255,Kenlo,vacancy_type_effective,2025-05-23T11:54:19.575Z,2025-07-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9217255,32086,Dasa Tecnologia,vacancy_type_effective,2025-05-22T22:30:20.738Z,2025-07-21T00:00:00.000Z,False,,,,{'friendlyBadge': True},True,hybrid
+9159785,2005,Trinus,vacancy_type_effective,2025-05-22T19:46:14.428Z,2025-07-13T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': True},False,on-site
+9215688,87658,Construtora Alliance,vacancy_type_effective,2025-05-22T19:04:54.307Z,2025-07-21T00:00:00.000Z,False,João Pessoa,Paraíba,Brasil,{'friendlyBadge': True},True,on-site
+9215518,135,Embraer,vacancy_type_effective,2025-05-22T19:04:21.115Z,2025-07-21T00:00:00.000Z,False,Gavião Peixoto,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9215620,84556,Stefanini Group,vacancy_type_effective,2025-05-22T19:00:44.506Z,2025-07-21T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9215520,208075,Rede Américas,vacancy_type_effective,2025-05-22T18:55:12.483Z,2025-06-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9215067,208075,Rede Américas,vacancy_type_effective,2025-05-22T18:22:04.448Z,2025-06-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9203980,74,Cielo,vacancy_type_effective,2025-05-22T18:11:36.309Z,2025-07-20T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8789300,129437,SMARTBREEDER - trabalhe conosco,vacancy_type_internship,2025-05-22T17:13:19.179Z,2026-02-02T00:00:00.000Z,False,Piracicaba,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+8923072,129437,SMARTBREEDER - trabalhe conosco,vacancy_type_internship,2025-05-22T16:46:34.341Z,2026-06-03T00:00:00.000Z,False,Piracicaba,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9212700,39,Grupo SEB,vacancy_type_effective,2025-05-22T14:20:35.551Z,2025-07-21T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9172801,98615,3corações,vacancy_type_internship,2025-05-22T12:58:41.513Z,2025-07-15T00:00:00.000Z,False,Eusébio,Ceará,Brasil,{'friendlyBadge': True},True,on-site
+9211443,130756,UNIG Carreiras,vacancy_type_effective,2025-05-22T12:13:27.966Z,2025-07-21T00:00:00.000Z,False,Nova Iguaçu,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9209878,681,Docket Brasil ,vacancy_type_internship,2025-05-21T21:29:31.301Z,2025-07-20T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9209133,6577,Grupo Henry Schein Brasil,vacancy_type_effective,2025-05-21T19:55:35.863Z,2025-07-01T00:00:00.000Z,False,Itapeva,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9196461,99968,WEBJUMP,vacancy_type_effective,2025-05-21T19:02:54.040Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9208294,40930,Lumini IT Solutions,vacancy_legal_entity,2025-05-21T18:45:33.952Z,2026-05-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9123061,3759,Itaú Unibanco,vacancy_type_effective,2025-05-21T18:02:44.141Z,2025-08-07T00:00:00.000Z,False,Sao Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9207481,212266,Programa de Estágio Agibank 2025 ,vacancy_type_internship,2025-05-21T17:28:06.323Z,2025-07-20T00:00:00.000Z,False,Campinas,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9198481,2762,Bernoulli Educação,vacancy_type_effective,2025-05-21T14:31:53.977Z,2025-07-19T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9178253,317,Sicredi,vacancy_type_effective,2025-05-21T13:39:38.099Z,2025-07-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9164721,164373,Ipiranga,vacancy_type_effective,2025-05-21T13:37:52.864Z,2025-07-14T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9178155,317,Sicredi,vacancy_type_effective,2025-05-21T13:36:06.244Z,2025-07-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9204338,143527,One Big Media Group,vacancy_type_effective,2025-05-21T12:19:33.968Z,2025-07-20T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9199481,1123,Confidencial,vacancy_type_associate,2025-05-21T11:59:14.337Z,2025-07-19T00:00:00.000Z,False,Canoas,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9203655,32086,Dasa Tecnologia,vacancy_type_talent_pool,2025-05-21T02:54:02.030Z,2025-06-30T00:00:00.000Z,False,,,,{'friendlyBadge': True},True,hybrid
+9199778,38356,Vem ser um Conecter. ,vacancy_type_effective,2025-05-20T22:30:21.921Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9164906,164225,Tania Bulhões,vacancy_type_effective,2025-05-20T20:59:59.512Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9187277,74,Cielo,vacancy_type_effective,2025-05-20T20:35:39.092Z,2025-06-23T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9175743,19414,Dexco,vacancy_type_effective,2025-05-20T20:04:45.283Z,2025-07-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9104474,1100,Rottas Construtora e Incorporadora,vacancy_legal_entity,2025-05-20T19:52:09.448Z,2025-07-06T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9198346,21826,Dasa,vacancy_type_effective,2025-05-20T19:23:39.382Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9200994,3464,Smart NX ,vacancy_type_effective,2025-05-20T18:53:49.605Z,2025-07-28T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9136993,12319,Araguaia,vacancy_type_effective,2025-05-20T18:28:22.298Z,2025-07-11T00:00:00.000Z,False,Anápolis,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9200623,1167,GOL Linhas Aéreas,vacancy_type_effective,2025-05-20T18:24:57.516Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9200388,164897,Gradus,vacancy_type_effective,2025-05-20T18:09:40.475Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9199600,59576,Omie,vacancy_type_internship,2025-05-20T17:34:02.883Z,2025-07-20T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9191359,74,Cielo,vacancy_type_effective,2025-05-20T17:28:39.800Z,2025-07-18T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9197185,33538,Riachuelo ,vacancy_type_effective,2025-05-20T13:57:03.158Z,2025-07-19T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9195182,1714,Petz,vacancy_type_effective,2025-05-20T13:53:41.501Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+8994686,163712,Página de Carreira,vacancy_type_effective,2025-05-20T13:29:43.422Z,2025-06-20T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': True},True,on-site
+9196533,75453,Grupo Direcional Engenharia,vacancy_type_effective,2025-05-20T12:19:46.979Z,2025-07-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9157448,131746,Alloha Fibra,vacancy_type_effective,2025-05-20T12:08:14.819Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9195087,1857,Expresso São Miguel,vacancy_type_effective,2025-05-20T03:20:52.848Z,2025-06-30T00:00:00.000Z,False,Chapecó,Santa Catarina,Brasil,{'friendlyBadge': True},True,on-site
+9089454,3348,Omni ,vacancy_type_effective,2025-05-19T21:35:48.175Z,2025-10-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9088193,3348,Omni ,vacancy_type_effective,2025-05-19T21:05:22.682Z,2025-08-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9192969,21826,Dasa,vacancy_type_effective,2025-05-19T20:21:42.785Z,2025-07-18T00:00:00.000Z,False,Cascavel,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9082470,38719,Grupo Autoglass Tech,vacancy_type_effective,2025-05-19T20:20:29.698Z,2025-12-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9192879,3965,SIMPAR,vacancy_type_effective,2025-05-19T20:18:09.285Z,2025-06-19T00:00:00.000Z,False,Mogi das Cruzes,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9176314,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-05-19T19:29:09.593Z,2025-07-15T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9190972,1258,SiDi,vacancy_type_temporary,2025-05-19T19:21:32.558Z,2025-06-20T00:00:00.000Z,False,Sorocaba,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9173005,74,Cielo,vacancy_type_effective,2025-05-19T18:20:26.342Z,2025-06-26T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9044041,103597,Comerc Energia,vacancy_type_effective,2025-05-19T18:12:51.227Z,2025-06-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9189205,18655,Lojas Renner,vacancy_type_effective,2025-05-19T16:26:34.652Z,2025-07-18T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+9188200,882,ioasys,vacancy_type_effective,2025-05-19T14:39:31.480Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9162078,166263,Eletrobras,vacancy_type_effective,2025-05-19T14:31:20.063Z,2025-07-14T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},False,on-site
+9161421,157288,Porto,vacancy_type_effective,2025-05-19T14:29:29.230Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9175908,129602,Cogna Educação,vacancy_type_effective,2025-05-19T14:28:07.432Z,2025-07-15T00:00:00.000Z,False,Valinhos,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9187740,9448,Brivia,vacancy_legal_entity,2025-05-19T14:10:51.953Z,2025-07-18T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,hybrid
+9172471,2762,Bernoulli Educação,vacancy_type_effective,2025-05-19T12:13:17.180Z,2025-07-15T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': False},True,hybrid
+9138237,10372,3tentos,vacancy_type_effective,2025-05-19T12:05:22.525Z,2025-07-11T00:00:00.000Z,False,Ijuí,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9185990,12814,Montreal | Tecnologia e Inovação,vacancy_type_effective,2025-05-19T11:39:53.861Z,2025-07-18T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+9073945,317,Sicredi,vacancy_type_effective,2025-05-16T21:47:16.483Z,2025-07-01T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,hybrid
+9161730,246,Vem Pra Vivo,vacancy_type_effective,2025-05-16T21:35:09.954Z,2025-06-20T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,on-site
+9178045,80332,AlmapBBDO,vacancy_type_effective,2025-05-16T21:25:06.214Z,2025-07-15T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8987922,73271,SPC Brasil,vacancy_type_internship,2025-05-16T19:56:12.544Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9165481,111552,TD Motopeças ,vacancy_type_effective,2025-05-16T19:50:48.399Z,2025-07-14T00:00:00.000Z,False,Teresina,Piauí,Brasil,{'friendlyBadge': True},False,on-site
+8899193,129437,SMARTBREEDER - trabalhe conosco,vacancy_type_effective,2025-05-16T19:33:37.296Z,2026-01-31T00:00:00.000Z,False,Piracicaba,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9176687,210684,NEO - PROGRAMA DE ESTÁGIO 2025,vacancy_type_internship,2025-05-16T19:13:25.276Z,2025-07-15T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9139988,56,Cadastra ,vacancy_type_effective,2025-05-16T18:00:05.497Z,2025-07-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9113844,38557,Empresa Nacional de Grande Porte,vacancy_type_effective,2025-05-16T18:00:00.322Z,2025-06-30T00:00:00.000Z,False,Maringá,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9143752,76834,Globalweb,vacancy_type_effective,2025-05-16T17:43:07.527Z,2025-07-12T00:00:00.000Z,False,Goiânia,Goiás,Brasil,{'friendlyBadge': True},True,on-site
+9141672,459,Mercafacil,vacancy_type_effective,2025-05-16T17:11:34.066Z,2025-07-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9119568,164543,Corporativo Grupo Casas Bahia,vacancy_type_effective,2025-05-16T16:08:12.841Z,2025-07-07T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9023468,132802,Somos Educação,vacancy_type_effective,2025-05-16T14:43:46.982Z,2025-06-24T00:00:00.000Z,False,São José dos Campos,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9172104,164473,Atlantica Hospitality International,vacancy_type_effective,2025-05-16T14:03:17.584Z,2025-07-15T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9146160,26345,Gurpo Afeet,vacancy_type_effective,2025-05-16T13:51:38.041Z,2025-07-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9059314,157288,Porto,vacancy_type_effective,2025-05-16T13:44:48.722Z,2025-06-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9168353,90397,Saint-Gobain Produtos para Construção,vacancy_type_internship,2025-05-16T12:07:50.272Z,2025-07-14T00:00:00.000Z,False,Jandira,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9169464,403,credsystem,vacancy_type_effective,2025-05-15T20:49:25.441Z,2025-07-14T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9010525,142570,Hitss Brasil,vacancy_type_effective,2025-05-15T20:28:35.652Z,2025-06-22T00:00:00.000Z,False,Brasilia,Distrito Federal,Brasil,{'friendlyBadge': False},False,on-site
+9136174,142570,Hitss Brasil,vacancy_type_effective,2025-05-15T20:28:31.778Z,2025-06-27T00:00:00.000Z,False,Osasco,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+9142669,184415,Prevident,vacancy_legal_entity,2025-05-15T20:13:59.772Z,2025-07-11T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9160940,132802,Somos Educação,vacancy_type_effective,2025-05-15T19:17:38.674Z,2025-07-13T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9166941,136762,Veolia Brasil,vacancy_type_effective,2025-05-15T17:40:41.521Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8967992,3952,Caju,vacancy_type_effective,2025-05-15T17:05:42.806Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9166252,512,RankMyApp,vacancy_type_effective,2025-05-15T16:09:36.498Z,2025-07-14T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9165197,127423,Cacau Show,vacancy_type_effective,2025-05-15T14:43:36.809Z,2025-06-30T00:00:00.000Z,False,Itapevi,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9149800,71422,V.tal | o futuro passa por aqui,vacancy_type_effective,2025-05-15T11:51:08.047Z,2025-07-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9161979,131977,Lavoro Agro,vacancy_type_effective,2025-05-15T00:08:49.828Z,2025-07-13T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,hybrid
+9136854,3952,Caju,vacancy_type_effective,2025-05-14T20:49:33.797Z,2025-07-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9160686,164310,Helloo,vacancy_type_effective,2025-05-14T20:37:48.432Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9160634,3857,HS FINANCEIRA S/A - CFI,vacancy_type_effective,2025-05-14T20:22:39.829Z,2025-06-30T00:00:00.000Z,False,Dois Irmãos,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+9145203,163712,Página de Carreira,vacancy_type_effective,2025-05-14T19:56:50.532Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9106418,317,Sicredi,vacancy_type_effective,2025-05-14T19:33:00.013Z,2025-07-06T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9150766,376,PagBank,vacancy_type_apprentice,2025-05-14T19:29:33.844Z,2025-07-12T00:00:00.000Z,False,Sao Paulo,São Paulo,,{'friendlyBadge': True},True,hybrid
+9138112,376,PagBank,vacancy_type_effective,2025-05-14T19:26:35.198Z,2025-12-31T00:00:00.000Z,False,Sao Paulo,São Paulo,,{'friendlyBadge': True},True,hybrid
+9149817,85975,Instituto de Pesquisas ELDORADO,vacancy_type_internship,2025-05-14T18:19:30.662Z,2025-09-30T00:00:00.000Z,False,Manaus,Amazonas,Brasil,{'friendlyBadge': True},False,hybrid
+9040043,164547,Tecnologia Grupo Casas Bahia,vacancy_type_effective,2025-05-13T22:06:27.505Z,2025-06-27T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9150664,2691,Vetta Tecnologia,vacancy_type_effective,2025-05-13T21:12:35.321Z,2025-07-12T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,hybrid
+9152278,64599,MRO,vacancy_type_effective,2025-05-13T21:06:26.678Z,2025-07-12T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9110489,202037,"Minerva Foods Tecnologia – Inovação que conecta, tecnologia que transforma.",vacancy_type_effective,2025-05-13T20:58:46.198Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9147823,12088,Keep Simple,vacancy_legal_entity,2025-05-13T19:21:01.706Z,2025-07-12T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9150266,146,Contabilizei,vacancy_type_effective,2025-05-13T18:37:41.247Z,2025-07-12T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9150061,146,Contabilizei,vacancy_type_effective,2025-05-13T18:29:24.768Z,2025-07-12T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9149151,157288,Porto,vacancy_type_effective,2025-05-13T17:28:34.366Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9139155,75976,BIP Brasil,vacancy_type_talent_pool,2025-05-13T17:16:21.890Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9148460,3920,Atento TI,vacancy_type_effective,2025-05-13T15:47:31.811Z,2025-07-12T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9007659,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-05-12T21:09:32.411Z,2025-11-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9042507,71422,V.tal | o futuro passa por aqui,vacancy_type_effective,2025-05-12T20:52:21.515Z,2025-08-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9142591,1368,CLAMED Administrativo,vacancy_type_effective,2025-05-12T20:42:14.214Z,2025-07-11T00:00:00.000Z,False,Joinville,Santa Catarina,Brasil,{'friendlyBadge': True},True,on-site
+9142443,2833,Venha ser Santa Casa,vacancy_type_effective,2025-05-12T20:21:39.979Z,2025-06-30T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},False,on-site
+9128625,202037,"Minerva Foods Tecnologia – Inovação que conecta, tecnologia que transforma.",vacancy_type_effective,2025-05-12T18:03:05.729Z,2025-07-31T00:00:00.000Z,False,Barretos,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9043388,103597,Comerc Energia,vacancy_type_effective,2025-05-12T14:54:00.365Z,2025-07-11T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9093077,107260,Honda,vacancy_type_effective,2025-05-12T14:23:39.063Z,2025-12-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9137303,75453,Grupo Direcional Engenharia,vacancy_type_effective,2025-05-12T13:19:15.607Z,2025-07-11T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+9130784,87856,Gocase Brasil,vacancy_type_internship,2025-05-10T16:06:45.299Z,2025-07-09T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': False},True,hybrid
+9130691,87856,Gocase Brasil,vacancy_type_effective,2025-05-10T15:44:26.372Z,2025-07-09T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': False},True,hybrid
+9127181,164959,FIESP,vacancy_type_effective,2025-05-09T20:15:33.829Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9126758,403,credsystem,vacancy_type_internship,2025-05-09T19:38:36.642Z,2025-07-08T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9126267,156727,Confidencial,vacancy_type_effective,2025-05-09T19:12:07.135Z,2025-07-08T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,hybrid
+9070676,669,BANCO DAYCOVAL,vacancy_type_effective,2025-05-09T19:09:22.313Z,2025-07-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,on-site
+8923027,206326,NIO,vacancy_type_effective,2025-05-09T18:38:07.813Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9122690,2691,Vetta Tecnologia,vacancy_type_effective,2025-05-09T17:22:16.701Z,2025-07-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9125235,540,DOC9,vacancy_legal_entity,2025-05-09T17:13:35.652Z,2025-07-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9123000,12088,Keep Simple,vacancy_legal_entity,2025-05-09T13:31:48.245Z,2025-07-08T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9020867,134287,Alper Carreiras,vacancy_type_effective,2025-05-08T23:57:14.660Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9019571,137587,MJV Technology & Innovation,vacancy_type_effective,2025-05-08T23:22:55.895Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+9119591,77758,Universidade Cidade de São Paulo,vacancy_type_effective,2025-05-08T21:48:16.072Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9092733,78484,Universidade Cruzeiro do Sul,vacancy_type_effective,2025-05-08T21:29:08.731Z,2025-07-04T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9119425,211408,Motiva,vacancy_type_effective,2025-05-08T21:21:19.579Z,2025-07-07T00:00:00.000Z,False,Jundiaí,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8984176,1647,TELEMONT,vacancy_type_effective,2025-05-08T21:08:57.446Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9097126,88327,Vagas Inmetrics,vacancy_type_effective,2025-05-08T20:11:06.093Z,2025-07-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9117754,21826,Dasa,vacancy_type_effective,2025-05-08T19:44:19.886Z,2025-07-07T00:00:00.000Z,False,,,,{'friendlyBadge': True},True,on-site
+9105170,12088,Keep Simple,vacancy_legal_entity,2025-05-08T17:13:27.941Z,2025-07-06T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+9115214,187352,Lockton Consultoria e Corretora de Seguros,vacancy_type_effective,2025-05-08T15:13:37.099Z,2025-07-07T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9115184,206359,GRUPO S2,vacancy_type_effective,2025-05-08T15:09:20.990Z,2025-07-07T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9072646,3889,Central Ailos,vacancy_type_effective,2025-05-08T13:36:42.712Z,2025-07-13T00:00:00.000Z,False,Blumenau,Santa Catarina,Brasil,{'friendlyBadge': False},True,hybrid
+8825887,112639,BRK,vacancy_type_effective,2025-05-07T20:22:58.908Z,2025-06-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9109598,80332,AlmapBBDO,vacancy_type_freelancer,2025-05-07T20:16:40.591Z,2025-07-06T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9106971,70267,C&A Brasil,vacancy_type_effective,2025-05-07T18:06:09.676Z,2025-08-07T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9105371,317,Sicredi,vacancy_type_internship,2025-05-07T14:59:18.429Z,2025-06-18T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': True},True,on-site
+9105448,157288,Porto,vacancy_type_effective,2025-05-07T14:18:19.671Z,2025-07-06T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9089686,202300,Conta Simples,vacancy_type_effective,2025-05-07T12:54:56.104Z,2025-07-04T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9072049,157288,Porto,vacancy_type_effective,2025-05-06T19:58:52.661Z,2025-07-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9095382,66175,Close-up International,vacancy_type_effective,2025-05-06T13:23:51.737Z,2025-07-05T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9094789,87856,Gocase Brasil,vacancy_type_effective,2025-05-06T11:39:42.939Z,2025-07-30T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': False},True,hybrid
+9091264,70267,C&A Brasil,vacancy_type_effective,2025-05-05T20:02:09.680Z,2025-09-30T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9090166,55615,Passarelli,vacancy_type_effective,2025-05-05T18:47:09.848Z,2025-07-04T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,on-site
+9085906,33538,Riachuelo ,vacancy_type_effective,2025-05-05T12:20:37.189Z,2025-07-04T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9071866,70729,Pottencial Seguradora,vacancy_type_effective,2025-05-02T20:21:03.751Z,2025-07-01T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,hybrid
+9070447,84556,Stefanini Group,vacancy_type_effective,2025-05-02T13:59:04.585Z,2025-07-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9063767,18655,Lojas Renner,vacancy_type_internship,2025-04-30T20:07:22.927Z,2025-06-29T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+9051400,1401,YDUQS,vacancy_type_effective,2025-04-30T19:16:32.057Z,2025-06-28T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+9055972,596,GPA,vacancy_type_effective,2025-04-30T19:13:08.579Z,2025-06-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9058156,172240,Tax.Co,vacancy_type_effective,2025-04-30T11:12:27.667Z,2025-07-31T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': True},False,on-site
+9054580,165131,v(dev),vacancy_type_effective,2025-04-29T20:45:14.816Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9039864,117562,Central IT,vacancy_type_effective,2025-04-29T20:23:01.782Z,2025-07-27T00:00:00.000Z,False,,Distrito Federal,Brasil,{'friendlyBadge': True},False,hybrid
+9033370,157288,Porto,vacancy_type_effective,2025-04-29T17:48:43.230Z,2025-06-25T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9045150,163770,Blip,vacancy_type_internship,2025-04-29T15:52:17.603Z,2025-06-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9052339,78484,Universidade Cruzeiro do Sul,vacancy_type_effective,2025-04-29T15:48:57.991Z,2025-06-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9051360,1782,Jadlog Logística SA,vacancy_type_effective,2025-04-29T14:20:41.251Z,2025-06-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9051172,1782,Jadlog Logística SA,vacancy_type_effective,2025-04-29T14:18:50.365Z,2026-06-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8994087,473,Assaí Atacadista - O atacadista com 50 anos de tradição! #VemserAssaí ,vacancy_type_effective,2025-04-29T14:17:47.913Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9005095,183261,Riocard Mais,vacancy_type_effective,2025-04-29T14:06:44.204Z,2025-06-21T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+9050300,12847,DataHub Analytics,vacancy_type_effective,2025-04-29T13:01:20.546Z,2025-06-28T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+9034304,88327,Vagas Inmetrics,vacancy_type_effective,2025-04-29T11:45:35.585Z,2025-06-25T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+9049400,94664,Grupo Autoglass Administrativo,vacancy_type_effective,2025-04-29T11:37:47.372Z,2025-12-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9045063,3784,Arezzo&CO,vacancy_type_effective,2025-04-28T19:58:10.690Z,2025-07-31T00:00:00.000Z,False,Campo Bom,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+9020119,1410,Leega Consultoria,vacancy_type_effective,2025-04-25T21:57:34.659Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+8994094,473,Assaí Atacadista - O atacadista com 50 anos de tradição! #VemserAssaí ,vacancy_type_effective,2025-04-25T18:29:59.704Z,2025-08-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+9026595,74,Cielo,vacancy_type_effective,2025-04-25T17:58:11.342Z,,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8963410,157288,Porto,vacancy_type_effective,2025-04-25T17:21:07.404Z,2025-09-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9022844,370,Sankhya Gestão de Negócios,vacancy_type_effective,2025-04-25T14:58:04.451Z,2025-07-31T00:00:00.000Z,False,Uberlândia,Minas Gerais,Brasil,{'friendlyBadge': False},True,on-site
+9020310,32911,Livance,vacancy_legal_entity,2025-04-25T14:42:44.475Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+9024281,1857,Expresso São Miguel,vacancy_type_effective,2025-04-25T14:21:34.583Z,2025-06-24T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,hybrid
+9023655,163711,Expresso São Miguel,vacancy_type_trainee,2025-04-25T13:38:35.549Z,2025-07-31T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+9023427,120526,Radix Engenharia e Software,vacancy_type_effective,2025-04-25T13:27:38.063Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},False,hybrid
+8924267,164543,Corporativo Grupo Casas Bahia,vacancy_type_effective,2025-04-25T12:14:57.503Z,2025-07-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+9022510,95413,Braveo,vacancy_type_effective,2025-04-25T11:38:21.382Z,2025-06-24T00:00:00.000Z,False,Cachoeirinha,Rio Grande do Sul,Brasil,{'friendlyBadge': True},True,on-site
+8754124,134287,Alper Carreiras,vacancy_type_effective,2025-04-24T23:13:44.260Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9021221,207681,ClickBus,vacancy_type_effective,2025-04-24T21:11:38.919Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9019144,178348,Corsan Aegea,vacancy_type_effective,2025-04-24T18:22:10.574Z,2025-06-23T00:00:00.000Z,False,Porto Alegre,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+9018416,207681,ClickBus,vacancy_type_effective,2025-04-24T17:07:09.771Z,2025-06-23T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9017875,84556,Stefanini Group,vacancy_type_effective,2025-04-24T15:55:24.601Z,2025-06-23T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9017820,84556,Stefanini Group,vacancy_type_effective,2025-04-24T15:50:19.493Z,2025-06-23T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+9012547,48652,Motz,vacancy_type_effective,2025-04-24T11:32:35.718Z,2025-07-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8969379,89176,Akross,vacancy_type_effective,2025-04-23T18:41:52.437Z,2025-07-16T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8812976,142570,Hitss Brasil,vacancy_type_effective,2025-04-23T17:15:31.007Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+9010972,134287,Alper Carreiras,vacancy_type_effective,2025-04-23T17:08:56.303Z,2025-06-22T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+9008842,80200,Faça parte do time Mercantil,vacancy_type_effective,2025-04-23T15:57:39.492Z,2025-06-27T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,hybrid
+9008645,80200,Faça parte do time Mercantil,vacancy_type_effective,2025-04-23T13:21:49.207Z,2025-06-27T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,hybrid
+9002227,206326,NIO,vacancy_type_effective,2025-04-22T14:35:01.307Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8645902,104924,IXC Soft - Sistema de Gerenciamento para Provedores,vacancy_type_effective,2025-04-18T19:14:48.058Z,2025-08-31T00:00:00.000Z,False,Chapecó,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+8976330,210,Grupo Boticário,vacancy_type_effective,2025-04-17T21:42:45.758Z,2025-06-19T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8972146,164755,Trust Control ,vacancy_type_internship,2025-04-17T16:11:45.778Z,2025-08-08T00:00:00.000Z,False,Fortaleza,Ceará,Brasil,{'friendlyBadge': True},True,hybrid
+8913924,120526,Radix Engenharia e Software,vacancy_type_effective,2025-04-16T16:15:53.063Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},False,remote
+8934504,80332,AlmapBBDO,vacancy_type_effective,2025-04-14T12:39:44.825Z,2025-08-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8962976,157288,Porto,vacancy_type_effective,2025-04-11T20:18:39.298Z,2025-06-27T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8960480,1167,GOL Linhas Aéreas,vacancy_type_effective,2025-04-11T16:09:13.448Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8952316,197256,Segware,vacancy_type_effective,2025-04-11T13:48:39.593Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8913209,203398,cdajobs,vacancy_type_effective,2025-04-11T13:30:43.464Z,2025-06-30T00:00:00.000Z,False,Cariacica,Espírito Santo,Brasil,{'friendlyBadge': True},True,on-site
+8951677,70267,C&A Brasil,vacancy_type_effective,2025-04-10T13:07:10.184Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+8612931,317,Sicredi,vacancy_type_effective,2025-04-09T17:43:44.295Z,2025-09-26T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8944277,48091,Inpasa Brasil,vacancy_type_effective,2025-04-09T12:36:12.907Z,2025-07-07T00:00:00.000Z,False,Dourados,Mato Grosso do Sul,Brasil,{'friendlyBadge': False},True,on-site
+8772746,1401,YDUQS,vacancy_type_effective,2025-04-08T18:09:42.640Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+8904094,1602,Madesa Móveis,vacancy_type_effective,2025-04-08T17:08:31.311Z,2025-06-30T00:00:00.000Z,False,Bom Princípio,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+8938493,2256,Anota AI 💙,vacancy_type_talent_pool,2025-04-08T14:30:23.432Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+8932589,96404,Vagas Banco Sofisa,vacancy_type_effective,2025-04-08T13:29:05.878Z,2025-07-28T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8905615,124389,Telefónica Tech,vacancy_type_effective,2025-04-07T18:36:44.855Z,2025-06-23T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+8907094,1410,Leega Consultoria,vacancy_legal_entity,2025-04-03T12:33:48.741Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+8885351,3889,Central Ailos,vacancy_type_effective,2025-04-02T13:14:16.073Z,2025-06-27T00:00:00.000Z,False,Blumenau,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+8900137,203099,NCS,vacancy_type_effective,2025-04-01T14:07:12.850Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8895156,1096,VIACERTA Banking,vacancy_type_effective,2025-04-01T12:09:19.673Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+8862614,74,Cielo,vacancy_type_effective,2025-03-28T14:20:03.606Z,2025-06-30T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8878639,643,Afya ,vacancy_type_effective,2025-03-27T14:25:39.022Z,2025-07-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},False,remote
+8872716,163699,Pif Paf Alimentos Administrativo,vacancy_type_effective,2025-03-26T16:02:20.063Z,2025-06-30T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+8858206,1602,Madesa Móveis,vacancy_type_effective,2025-03-26T12:49:06.897Z,2025-07-29T00:00:00.000Z,False,Bom Princípio,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+8863811,163699,Pif Paf Alimentos Administrativo,vacancy_type_effective,2025-03-25T13:34:54.987Z,2025-06-30T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+8862890,163699,Pif Paf Alimentos Administrativo,vacancy_type_effective,2025-03-25T12:10:06.945Z,2025-06-30T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+8595896,2005,Trinus,vacancy_type_effective,2025-03-25T11:34:14.261Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8725813,74,Cielo,vacancy_type_effective,2025-03-24T22:54:36.826Z,2025-06-28T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+8828589,120526,Radix Engenharia e Software,vacancy_type_effective,2025-03-24T22:22:55.256Z,2025-06-30T00:00:00.000Z,False,Paragominas,Pará,Brasil,{'friendlyBadge': False},False,on-site
+8860810,756,Qualidados,vacancy_type_talent_pool,2025-03-24T20:19:02.731Z,2027-12-24T00:00:00.000Z,False,Salvador,Bahia,Brasil,{'friendlyBadge': True},True,on-site
+8645302,20767,Cresol Oficial,vacancy_type_effective,2025-03-24T16:51:37.163Z,2025-07-31T00:00:00.000Z,False,Francisco Beltrão,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+8852086,3436,Softgran,vacancy_type_effective,2025-03-21T22:07:31.752Z,2025-06-30T00:00:00.000Z,False,Dourados,Mato Grosso do Sul,Brasil,{'friendlyBadge': False},True,hybrid
+8848379,66175,Close-up International,vacancy_type_effective,2025-03-21T15:52:52.613Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+8830177,164852,LWSA,vacancy_type_effective,2025-03-21T11:23:52.762Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8838122,52909,Clicksign,vacancy_type_effective,2025-03-20T12:08:53.057Z,2025-08-31T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8836128,733,Talent Gestão de Pessoas,vacancy_type_effective,2025-03-19T19:53:18.902Z,2025-06-27T00:00:00.000Z,False,Teresina,Piauí,Brasil,{'friendlyBadge': False},True,on-site
+8827828,2825,Ambev Tech,vacancy_type_effective,2025-03-18T18:29:52.712Z,2025-11-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},False,hybrid
+8413591,317,Sicredi,vacancy_type_effective,2025-03-17T21:02:04.820Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8818983,567,Cinemark Brasil,vacancy_type_internship,2025-03-17T17:01:09.551Z,2025-07-03T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8807075,105945,Corebiz,vacancy_type_effective,2025-03-14T12:00:01.145Z,2025-06-30T00:00:00.000Z,False,Barueri,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8755498,134287,Alper Carreiras,vacancy_type_effective,2025-03-13T22:51:01.004Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8755571,134287,Alper Carreiras,vacancy_type_effective,2025-03-13T22:42:31.137Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8755609,134287,Alper Carreiras,vacancy_type_effective,2025-03-13T22:27:14.311Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8704810,25519,EMBRACON ADMINISTRADORA DE CONSÓRCIO,vacancy_type_effective,2025-03-12T17:56:20.332Z,2025-06-30T00:00:00.000Z,False,Santana de Parnaíba,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8773893,165131,v(dev),vacancy_type_effective,2025-03-09T02:07:28.696Z,2025-06-30T00:00:00.000Z,False,Recife,Pernambuco,Brasil,{'friendlyBadge': True},True,hybrid
+8773870,165131,v(dev),vacancy_type_effective,2025-03-09T01:56:13.114Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+8773853,165131,v(dev),vacancy_type_effective,2025-03-09T01:35:38.855Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8772928,165131,v(dev),vacancy_type_effective,2025-03-08T14:03:50.927Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8772922,165131,v(dev),vacancy_type_effective,2025-03-08T14:01:17.700Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': True},True,hybrid
+8772915,165131,v(dev),vacancy_type_effective,2025-03-08T13:56:44.172Z,2025-06-30T00:00:00.000Z,False,Recife,Pernambuco,Brasil,{'friendlyBadge': True},True,hybrid
+8763701,2599,Light,vacancy_type_effective,2025-03-06T22:26:39.176Z,2025-07-07T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,on-site
+8750906,1768,Águas Azuis,vacancy_type_effective,2025-03-05T12:40:43.127Z,2025-06-30T00:00:00.000Z,False,Itajaí,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+8740470,56407,MESHA TECNOLOGIA,vacancy_type_effective,2025-02-28T22:06:40.314Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': False},True,remote
+8740083,18655,Lojas Renner,vacancy_type_effective,2025-02-28T20:54:17.555Z,2025-08-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8722435,2055,GRUPO SOMA,vacancy_type_effective,2025-02-28T11:46:24.887Z,2025-06-30T00:00:00.000Z,False,Rio de Janeiro,Rio de Janeiro,Brasil,{'friendlyBadge': False},True,hybrid
+8724122,199595,vemprotimefarmarcas,vacancy_type_effective,2025-02-27T00:39:43.472Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8724056,199595,vemprotimefarmarcas,vacancy_type_effective,2025-02-27T00:03:19.691Z,2025-07-14T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+8703431,74,Cielo,vacancy_type_effective,2025-02-24T15:14:59.349Z,,False,Barueri,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8665648,134881,Venha construir o futuro com a gente!,vacancy_type_effective,2025-02-21T14:04:50.847Z,2025-08-31T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+8687771,115675,Grupo Marista,vacancy_type_effective,2025-02-20T19:17:31.107Z,2025-07-14T00:00:00.000Z,False,Curitiba,Paraná,Brasil,{'friendlyBadge': True},True,hybrid
+8465509,1647,TELEMONT,vacancy_type_effective,2025-02-18T10:34:24.037Z,2025-07-14T00:00:00.000Z,False,Cuiabá,Mato Grosso,Brasil,{'friendlyBadge': True},True,on-site
+8651039,36640,"Grupo Hive | Omnibees, Bee2Pay e Niara - Brasil",vacancy_type_effective,2025-02-17T12:57:33.585Z,2025-09-29T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8660199,62646,Grupo Panvel,vacancy_type_effective,2025-02-17T12:32:57.275Z,2025-07-01T00:00:00.000Z,False,Eldorado do Sul,Rio Grande do Sul,Brasil,{'friendlyBadge': False},True,on-site
+8654672,1167,GOL Linhas Aéreas,vacancy_type_effective,2025-02-14T20:20:30.577Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+8594227,317,Sicredi,vacancy_type_effective,2025-02-13T19:01:32.142Z,2025-08-01T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8592967,74360,Portobello Grupo,vacancy_type_effective,2025-02-07T11:34:08.841Z,2025-06-30T00:00:00.000Z,False,Tijucas,Santa Catarina,Brasil,{'friendlyBadge': False},True,on-site
+8604426,2825,Ambev Tech,vacancy_type_effective,2025-02-06T18:20:10.403Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8604342,2825,Ambev Tech,vacancy_type_effective,2025-02-06T18:15:35.016Z,2025-06-30T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8564400,165484,Volkswagen Group Services South America,vacancy_type_effective,2025-01-30T20:54:19.832Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8490990,134287,Alper Carreiras,vacancy_type_effective,2025-01-23T15:42:59.564Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8396006,9250,Lefosse,vacancy_type_effective,2025-01-22T17:43:31.186Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8474584,1782,Jadlog Logística SA,vacancy_type_effective,2025-01-16T15:14:51.899Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+8361290,58321,B4A,vacancy_type_talent_pool,2024-12-30T14:13:42.558Z,2025-08-19T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
+8248205,2754,CIEE - Centro de Integração Empresa-Escola,vacancy_type_effective,2024-12-19T17:35:27.865Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+8251540,107326,Auren Energia,vacancy_type_effective,2024-12-16T23:30:14.150Z,2025-09-01T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},False,hybrid
+8234259,146,Contabilizei,vacancy_type_effective,2024-12-03T18:07:01.245Z,2025-06-22T00:00:00.000Z,True,,,Brasil,{'friendlyBadge': True},True,remote
+8205057,134881,Venha construir o futuro com a gente!,vacancy_type_talent_pool,2024-11-27T21:14:45.513Z,2026-11-28T00:00:00.000Z,False,Belo Horizonte,Minas Gerais,Brasil,{'friendlyBadge': True},True,on-site
+8076025,352,#SejaShopper,vacancy_type_effective,2024-11-04T18:14:10.891Z,,True,,,Brasil,{'friendlyBadge': False},True,remote
+8034249,950,Ingram Micro,vacancy_type_talent_pool,2024-10-25T20:13:05.633Z,,False,Barueri,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+7824576,2754,CIEE - Centro de Integração Empresa-Escola,vacancy_type_effective,2024-10-11T16:58:51.228Z,2025-07-31T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+7631864,3759,Itaú Unibanco,vacancy_type_talent_pool,2024-08-14T20:53:13.209Z,2025-06-30T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+7615610,317,Sicredi,vacancy_type_talent_pool,2024-08-12T20:24:48.248Z,,False,Palotina,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+7523983,33538,Riachuelo ,vacancy_type_effective,2024-07-23T21:48:15.013Z,,False,Natal,Rio Grande do Norte,Brasil,{'friendlyBadge': False},True,on-site
+7280703,436,UOL,vacancy_type_effective,2024-06-11T01:44:55.852Z,,False,Sao Paulo,São Paulo,,{'friendlyBadge': True},True,hybrid
+7243343,163914,Corporativo - Agibank,vacancy_type_effective,2024-06-07T17:10:04.779Z,,False,Campinas,São Paulo,Brasil,{'friendlyBadge': True},True,hybrid
+6994828,20767,Cresol Oficial,vacancy_type_effective,2024-04-25T18:14:36.840Z,,False,Francisco Beltrão,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+6887340,317,Sicredi,vacancy_type_talent_pool,2024-03-14T19:45:20.500Z,2025-06-30T00:00:00.000Z,False,Palotina,Paraná,Brasil,{'friendlyBadge': True},True,on-site
+6803586,77692,ClearSale,vacancy_type_effective,2024-02-26T18:36:56.747Z,,True,,,Brasil,{'friendlyBadge': True},True,remote
+6751202,165046,Soldamaq - A Mais profissional,vacancy_type_effective,2024-02-14T15:52:35.803Z,,False,Ribas do Rio Pardo,,Brasil,{'friendlyBadge': False},False,on-site
+6744040,3759,Itaú Unibanco,vacancy_type_talent_pool,2024-02-09T21:02:53.725Z,2028-12-09T00:00:00.000Z,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+5247042,3759,Itaú Unibanco,vacancy_type_talent_pool,2023-08-08T16:51:14.785Z,,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,hybrid
+5120360,317,Sicredi,vacancy_type_talent_pool,2023-07-05T13:30:56.333Z,2025-07-31T00:00:00.000Z,False,Lins,São Paulo,Brasil,{'friendlyBadge': True},True,on-site
+5041576,140986,Account Manager Jr,vacancy_legal_entity,2023-06-22T16:52:26.413Z,,False,Paraná,Paraná,Brasil,{'friendlyBadge': False},False,on-site
+4751939,65284,SYOS,vacancy_type_internship,2023-04-28T19:19:22.747Z,,False,São Paulo,São Paulo,Brasil,{'friendlyBadge': False},True,on-site
