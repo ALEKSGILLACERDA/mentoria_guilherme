@@ -1,5 +1,28 @@
 [
   {
+    "id": 9232547,
+    "companyId": 364,
+    "name": "CAS I Analista de Dados Sr",
+    "description": "Estamos em busca de uma pessoa para trabalhar na área de pesquisa de Experiência (NPS). É importante que essa pessoa tenha pensamento crítico, que seja proativa, colaborativa, alta capacidade analítica e que consiga transformar dados em direcionadores de negócio, para que possamos evoluir a experiência da forma como nos relacionamos e dos produtos que oferecemos para nossos associados e cooperativas.&nbsp;Acreditamos que a cooperação é a chave para a inovação. Aqui no Sicredi, nos preocupamos em criar um ambiente diverso e inclusivo, e trazer a consciência da importância da diversidade para desconstruir padrões é o nosso objetivo! Venha fazer parte desse ambiente, atuando na nossa área de Centralidade do Usuário.Responsabilidades e atribuiçõesElaborar estudos de cenário e diagnóstico do negócio;Desenvolver e apoiar os times na mensuração de resultados, identificando oportunidades, tendências e padrões em conjuntos de dados;Construção técnica no desenvolvimento e monitoramento dos indicadores de performance da organização;Apoiar o analista de dados de menor senioridade na sua evolução técnica;Se comunicar com as pessoas do seu time e dos demais times de forma a promover uma melhor capacidade analítica;Interagir com os diferentes papéis do pipeline processo de dados (engenheiros, outros analistas, cientistas de dados e analistas de negócio);Acompanhar o processo de desenvolvimento de produtos, desde a concepção até o acompanhamento dos resultados em produção (Upstream e Downstream);Participar da Chapter de Análise de dados, buscando aprender e entender os padrões, ferramentas, processos e incentivando e promovendo a disseminação da cultura de dados para os colegas e times da nossa operação;Manter a documentação necessária p/ permitir a gestão da estratégia de dados (democratização, governança, qualidade e etc.);Requisitos e qualificaçõesHabilidades e Temas de Conhecimento Desejáveis· Conhecimento em SQL para análise e otimização avançada de dados.· Domínio de ferramentas de visualização de dados como Power BI para criação de dashboards impactantes.· Ampla experiência em modelagem de dados e otimização para desempenho.· Proficiência em treinamento de business intelligence e compartilhamento de conhecimento.· Capacidade de levantar questões relevantes a partir de análise de dados disponíveis para subsequente análise· Habilidades de liderança para liderar iniciativas de BI e conduzir decisões estratégicas.· Pensamento estratégico para identificar oportunidades de melhorias baseadas em dados.· Excelentes habilidades de comunicação e apresentação para influenciar as partes interessadas.· Capacidade de orientar e treinar membros juniores da equipe para o desenvolvimento de habilidades.· Resiliência e adaptabilidade para enfrentar desafios de negócios complexos.. Desenvolvimento em Ferramentas analíticas e visualização;. Construção de consultas à bancos de dados relacionais e não relacionais;. Análise Exploratória;. Gestão de versionamento de código;. Conceitos de BI e KPI;. Data Analytics e DataVIz;. Storytelling;. Estatística descritiva;. Governança de dados e LGPD;. Lógica de programação.Áreas de Formação Preferenciais: Análise de Sistemas, Estatística, Matemática, Ciência da Computação, Engenharia, Economia ou áreas correlacionadas.Nível de Formação: Ensino Superior (Concluído)Informações adicionaisNo Centro Administrativo Sicredi (CAS) para as posições nas áreas de negócio adotamos o formato de trabalho híbrido que se consolidou em 3 dias presenciais, na Sede da empresa, localizada na Av. Assis Brasil, 3940, São Sebastião, Porto Alegre/RS e 2 dias em teletrabalho. Nas posições da área Tech adotamos o formato de teletrabalho.____________________________________________________No&nbsp;Sicredi&nbsp;você vai ter:14º e 15º salários fixos;Participações nos Resultados (conforme a senioridade);Plano de Saúde e Odontológico sem coparticipação,Programas de bem-estar com Wellhub (antiga Gympass), Nutrição, Psicologia, Laboral, Massagem, Grupo de corrida e academia local;Vale Alimentação e Vale Refeição – com flexibilidade de % nos cartões VA/VR, sem coparticipação;Licença maternidade e paternidade estendida;Auxílio creche ou babá para crianças até 6 anos e 11 meses;Auxílio para filhos com deficiência, sem limite de idade;Seguro de vida,Previdência Privada até 6% do salário;Plataforma de Treinamentos – Sicredi Aprende, com diversos cursos;Carga horária de 40h semanais – Utilizando sistema de banco de horas;Auxílio Teletrabalho (exceto para posições com atuação 100% presenciais).",
+    "careerPageId": 317,
+    "careerPageName": "Sicredi",
+    "careerPageLogo": "https://attachments.gupy.io/production/companies/364/career/317/images/logo.png",
+    "type": "vacancy_type_effective",
+    "publishedDate": "2025-06-18T23:01:51.577Z",
+    "applicationDeadline": "2025-07-25T00:00:00.000Z",
+    "isRemoteWork": false,
+    "city": "Porto Alegre",
+    "state": "Rio Grande do Sul",
+    "country": "Brasil",
+    "jobUrl": "https://sicredi.gupy.io/job/eyJqb2JJZCI6OTIzMjU0Nywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
+    "badges": {
+      "friendlyBadge": true
+    },
+    "disabilities": true,
+    "workplaceType": "hybrid",
+    "careerPageUrl": "https://sicredi.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
+  },
+  {
     "id": 9336111,
     "companyId": 8254,
     "name": "Pessoa Estagiária Inteligência de Mercado - Analise de Dados",
@@ -14695,28 +14718,5 @@
     "disabilities": true,
     "workplaceType": "on-site",
     "careerPageUrl": "https://b4a.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
-  },
-  {
-    "id": 8248205,
-    "companyId": 1685,
-    "name": "Analista de Dados Pl",
-    "description": "O Centro de Integração Empresa Escola - CIEE é uma instituição filantrópica sem fins lucrativos e de fins não econômicos, reconhecida como entidade de assistência social que, por meio de diversos programas, dentre eles o de aprendizagem e o estágio de estudantes, possibilita aos adolescentes e jovens uma formação integral, ingressando-os ao mundo do trabalho.&nbsp;O CIEE tem um programa de diversidade que acolhe e respeita como você é e como quiser ser!Responsabilidades e atribuiçõesColetar e organizar dados de diversas fontes internas e externas;Realizar análises de dados utilizando ferramentas e técnicas apropriadas;Desenvolver e manter relatórios e dashboards para monitorar indicadores de desempenho;Auxiliar na identificação de tendências e padrões nos dados que possam contribuir para a melhoria dos processos de negócios;Colaborar com outras equipes para entender suas necessidades de dados e fornecer suporte analítico;Participar de reuniões e apresentações para comunicar descobertas e recomendações baseadas em dados;Assegurar a integridade e qualidade dos dados coletados e analisados.Requisitos e qualificaçõesEscolaridade: ensino superior completo em Estatística, Matemática, Ciência da Computação, Engenharia, Economia ou áreas correlatas.Conhecimentos específicos:Experiência atuando em áreas de análise de dados ou Governança de Dados;Conhecimento avançado de metodologias e práticas de análise de dados;Noções básicas de visualização de dados, utilizando ferramentas como Tableau, Power BI ou similares;Familiaridade com ferramentas de análise de dados, SQL, Python ou R;Conhecimento avançado de visualização de dados, utilizando ferramentas como Tableau, Power BI ou similares;Conhecimentos em estatística e metodologias de análise quantitativa;Habilidade para trabalhar com grandes volumes de dados e resolver problemas de forma analítica;Conhecimento em git, Docker, Spring Boot e Python;Conhecimentos em bancos de dados Relacionais(Oracle, Mysql, Postgres);Conhecimentos em bancos de dados NoSQL (Mongo, Redis);Conhecimentos em arquiteturas Haddop, Apache Spark;Conhecimento de ferramentas ETL como Pentaho PDI ou similares;Boa capacidade de comunicação para apresentar dados e insights de maneira clara e objetiva e facilidade de trabalhar em equipe;Inglês intermediário para leitura e interpretação de artigos científicos e documentações técnicas.Informações adicionaisBenefícios: Assistência Médica + Assistência Odontológica + Vale Refeição + Vale Transporte + Bday (folga no mês de aniversário) + Seguro de vida + Auxílio Creche.&nbsp;Programas de Qualidade de Vida e Bem Estar:·&nbsp;&nbsp;&nbsp;&nbsp;Viva com + Saúde - Apoio à prática de esportes;&nbsp;Parcerias·&nbsp;&nbsp;&nbsp;&nbsp;Associação ao SESC;·&nbsp;&nbsp;&nbsp;&nbsp;Parceria com escola de Idiomas.&nbsp;Tipo de contratação: Efetivo.",
-    "careerPageId": 2754,
-    "careerPageName": "CIEE - Centro de Integração Empresa-Escola",
-    "careerPageLogo": "https://attachments.gupy.io/production/companies/1685/career/2754/images/2023-08-08_13-22_companyLogoUrl.jpg",
-    "type": "vacancy_type_effective",
-    "publishedDate": "2024-12-19T17:35:27.865Z",
-    "applicationDeadline": "2025-07-31T00:00:00.000Z",
-    "isRemoteWork": false,
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "country": "Brasil",
-    "jobUrl": "https://ciee.gupy.io/job/eyJqb2JJZCI6ODI0ODIwNSwic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal",
-    "badges": {
-      "friendlyBadge": true
-    },
-    "disabilities": true,
-    "workplaceType": "hybrid",
-    "careerPageUrl": "https://ciee.gupy.io/eyJzb3VyY2UiOiJndXB5X3BvcnRhbCJ9"
   }
 ]
