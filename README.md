@@ -24,11 +24,13 @@ digitou.
 ├── config.py 
 
 ├── extracao/ 
+
 │   └── gupy_api.py 
 
 ├── dados/ 
 
 │   └── vagas_gupy.json 
+
 └── README.md 
 
 
