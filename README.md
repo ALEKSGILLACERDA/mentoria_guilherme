@@ -17,17 +17,17 @@ Este projeto tem como objetivo coletar automaticamente dados de vagas da platafo
 ## 🧱 Estrutura do projeto
 
 ├── main.py
-
+|
 ├── config.py
-
+|
 ├── extracao/
-
-│ └── gupy_api.py
-
+|
+│└──gupy_api.py
+|
 ├── dados/
-
-│ └── vagas_gupy.json
-
+|
+│└── vagas_gupy.json
+|
 └── README.md
 
  Funcionalidades
