@@ -18,6 +18,7 @@ Este projeto tem como objetivo coletar automaticamente dados de vagas da platafo
 
 ├── main.py # Ponto de entrada do projeto
 ├── config.py # Configurações como headers e parâmetros da API
+
 ├── extracao/
 │ └── gupy_api.py # Funções para coletar os dados da API
 ├── dados/
