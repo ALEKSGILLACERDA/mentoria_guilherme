@@ -15,6 +15,7 @@ Este projeto tem como objetivo coletar automaticamente dados de vagas da platafo
 ---
 
 ## 🧱 Estrutura do projeto
+
 ├── main.py # Ponto de entrada do projeto
 ├── config.py # Configurações como headers e parâmetros da API
 ├── extracao/
