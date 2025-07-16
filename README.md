@@ -16,19 +16,14 @@ Este projeto tem como objetivo coletar automaticamente dados de vagas da platafo
 
 ## 🧱 Estrutura do projeto
 
-├── main.py
-|
-├── config.py
-|
-├── extracao/
-|
-│└──gupy_api.py
-|
-├── dados/
-|
-│└── vagas_gupy.json
-|
-└── README.md
+- main.py
+- config.py
+- extracao/
+  - gupy_api.py
+- dados/
+  - vagas_gupy.json
+- README.md
+
 
  Funcionalidades
 Coleta de todas as vagas ativas de uma ou mais empresas na Gupy.
