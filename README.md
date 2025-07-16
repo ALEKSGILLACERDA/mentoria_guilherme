@@ -18,7 +18,7 @@ digitou.
 ## 🧱 Estrutura do projeto
 
 
-.
+
 ├── main.py
 ├── config.py
 ├── extracao/
