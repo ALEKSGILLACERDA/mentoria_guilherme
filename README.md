@@ -21,7 +21,7 @@ digitou.
 
 ├──src
 
-|.   ├──main.py
+|    ├──main.py
 
 |----├──config
 
