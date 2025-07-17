@@ -21,26 +21,23 @@ digitou.
 
 ├──src
 
-.   ├── main.py 
+----├──main.py
 
-.   ├── config.py 
+----├──config
 
-.   ├── extracao/ 
+--------└──  config.py 
 
-.   │    └── gupy_api.py 
+----├── extracao/ 
 
-├── dados/ 
+--------└── gupy_api.py 
 
-.   │   └── vagas_gupy.json 
+----├── dados/ 
+
+--------└── vagas_gupy.json 
 
 └── README.md 
 
 
- 
-
-├── 
-
- 
 
 
  Funcionalidades
