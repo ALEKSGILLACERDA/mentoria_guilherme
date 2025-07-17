@@ -34,7 +34,6 @@ digitou.
 |----├── dados/ 
  
 |--------└── vagas_gupy.json 
-
 |└── README.md 
 
 
