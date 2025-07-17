@@ -20,21 +20,21 @@ digitou.
 
 
 ├──src
-|
+
 |----├──main.py
-|
+
 |----├──config
-|
+
 |--------└──  config.py 
-|
+
 |----├── extracao/ 
-|
+
 |--------└── gupy_api.py 
-|
+
 |----├── dados/ 
-| 
+
 |--------└── vagas_gupy.json 
-|
+
 |└── README.md 
 
 
